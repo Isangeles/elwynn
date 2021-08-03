@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<miscs>
+  <misc id="imAloeLeaves1"
+	value="5"
+	level="1"
+	consumable="true">
+    <use>
+      <user>
+	<effects>
+	  <effect id="heal1"/>
+	</effects>
+      </user>
+    </use>
+  </misc>
+  <misc id="imHealingKit1"
+	value="5"
+	level="1"
+	consumable="true">
+    <use cast-max="3000">
+      <target-user>
+	<effects>
+	  <effect id="heal1"/>
+	</effects>
+      </target-user>
+      <reqs>
+	<target-range-req min-range="50"/>
+      </reqs>
+    </use>
+  </misc>
+  <misc id="imWater1"
+	value="1"
+	level="1"/>
+  <misc id="imAloeTea1"
+	value="10"
+	level="1"
+	consumable="true">
+    <use>
+      <user>
+	<effects>
+	  <effect id="heal2"/>
+	</effects>
+      </user>
+    </use>
+  </misc>
+  <misc id="imBronzeCoin1"
+	value="1"
+	level="1"
+	currency="true"/>
+</miscs>

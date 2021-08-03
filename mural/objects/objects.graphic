@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<object-graphics>
+  <object-graphic id="aloe1"
+		  sprite="herb1.png"/>
+</object-graphics>
