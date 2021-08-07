@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<characters>
+  <char id="charDepWillem1"
+	     level="18"
+	     gender="genderMale"
+	     attitude="attFriendly"
+	     alignment="aliLawfulGood">
+    <attributes strenght="1"
+		constitution="1"
+		dexterity="1"
+		inteligence="1"
+		wisdom="1"/>
+    <inventory>
+      <item id="iwIronSword"
+	    loot="true"/>
+    </inventory>
+    <skills>
+      <skill id="melee1"/>
+    </skills>
+  </char>
+</characters>
