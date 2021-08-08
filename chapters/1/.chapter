@@ -1,6 +1,6 @@
 # Configuration file for the chapter 1.
 start-area:northshire
-start-pos:1187;910
+start-pos:1160;821
 start-items:iwIronSword
 start-skills:melee1
 start-attrs:10
