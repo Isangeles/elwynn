@@ -17,5 +17,8 @@
     <skills>
       <skill id="melee1"/>
     </skills>
+    <dialogs>
+      <dialog id="diaDepWillem1"/>
+    </dialogs>
   </char>
 </characters>
