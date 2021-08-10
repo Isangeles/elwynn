@@ -15,6 +15,9 @@
     </character>
   </characters>
   <objects>
+    <object id="northshireAbbeyEnter1"
+	    x="1094"
+	    y="950"/>
   </objects>
   <subareas>
   </subareas>

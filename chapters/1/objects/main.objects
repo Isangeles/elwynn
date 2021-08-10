@@ -1,3 +1,15 @@
 <?xml version="1.0"?>
 <objects>
+  <object id="northshireAbbeyEnter1"
+	  max-hp="1">
+    <action>
+      <user>
+	<modifiers>
+	  <area-mod id="northishireAbbey"
+		    enter-pos-x="10"
+		    enter-pos-y="10"/>
+	</modifiers>
+      </user>
+    </action>
+  </object>
 </objects>
