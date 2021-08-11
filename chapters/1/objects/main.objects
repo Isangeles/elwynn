@@ -5,9 +5,21 @@
     <action>
       <user>
 	<modifiers>
-	  <area-mod id="northishireAbbey"
-		    enter-pos-x="10"
-		    enter-pos-y="10"/>
+	  <area-mod id="northshireAbbey1"
+		    enter-pos-x="486"
+		    enter-pos-y="48"/>
+	</modifiers>
+      </user>
+    </action>
+  </object>
+  <object id="northshireAbbeyExit1"
+	  max-hp="1">
+    <action>
+      <user>
+	<modifiers>
+	  <area-mod id="northshire"
+		    enter-pos-x="1094"
+		    enter-pos-y="950"/>
 	</modifiers>
       </user>
     </action>

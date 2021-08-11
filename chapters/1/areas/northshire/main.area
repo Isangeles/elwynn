@@ -20,5 +20,14 @@
 	    y="950"/>
   </objects>
   <subareas>
+    <area id="northshireAbbey1"
+	  time="8:00AM">
+      <characters></characters>
+      <objects>
+	<object id="northshireAbbeyExit1"
+		x="486"
+		y="48"/>
+      </objects>
+    </area>
   </subareas>
 </area>

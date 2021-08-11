@@ -2,4 +2,6 @@
 <object-graphics>
   <object-graphic id="northshireAbbeyEnter1"
 		  sprite="redtile1.png"/>
+  <object-graphic id="northshireAbbeyExit1"
+		  sprite="redtile1.png"/>
 </object-graphics>

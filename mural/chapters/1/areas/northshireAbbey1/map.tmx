@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="30" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" name="preview" tilewidth="32" tileheight="32" tilecount="704" columns="32">
+  <image source="tilesets/preview.png" width="1040" height="704"/>
+ </tileset>
+ <layer id="3" name="ground" width="30" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzbENACAMA8FAl8HYfyVWSAGKBGfpWn/OiAQAeNQaNae+ursdqrvxqaurq6urq/tHdwP+Ay2h
+  </data>
+ </layer>
+ <layer id="4" name="blockground" width="30" height="40">
+  <data encoding="base64" compression="zlib">
+   eJxjZmBgYKYzbmBiYGAHYnqDUXtH7R21d9TeUXtH7R21d2TZ68I4suxdArR3KRF4GZHuW0WEWQtIiNtjRNp7isrhN2rvqL2j9o7aO2rvqL2j9g59ewFRIzYR
+  </data>
+ </layer>
+</map>
