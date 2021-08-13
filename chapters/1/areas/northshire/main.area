@@ -22,7 +22,19 @@
   <subareas>
     <area id="northshireAbbey1"
 	  time="8:00AM">
-      <characters></characters>
+      <characters>
+	<character id="charMarshalMcBride1"
+		   x="486"
+		   y="190"
+		   dest-x="486"
+		   dest-y="190"
+		   def-x="486"
+		   def-y="190">
+	  <flags>
+	    <flag id="igniteNpc"/>
+	  </flags>
+	</character>
+      </characters>
       <objects>
 	<object id="northshireAbbeyExit1"
 		x="486"

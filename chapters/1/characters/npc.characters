@@ -21,4 +21,25 @@
       <dialog id="diaDepWillem1"/>
     </dialogs>
   </char>
+  <char id="charMarshalMcBride1"
+	     level="20"
+	     gender="genderMale"
+	     attitude="attFriendly"
+	     alignment="aliLawfulGood">
+    <attributes strenght="4"
+		constitution="3"
+		dexterity="2"
+		inteligence="2"
+		wisdom="2"/>
+    <inventory>
+      <item id="iwIronSword"
+	    loot="true"/>
+    </inventory>
+    <skills>
+      <skill id="melee1"/>
+    </skills>
+    <dialogs>
+      <dialog id="diaMarshalMcBride1"/>
+    </dialogs>
+  </char>
 </characters>
