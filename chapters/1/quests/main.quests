@@ -1,3 +1,16 @@
 <?xml version="1.0"?>
 <quests>
+  <quest id="questAThreatWithin1">
+    <stage id="questAThreatWithin1_s1"
+	   ordinal="0"
+	   next="end">
+      <objectives>
+	<objective>
+	  <reqs>
+	    <flag-req id="flagAThreatWithin1_talked"/>
+	  </reqs>
+	</objective>
+      </objectives>
+    </stage>
+  </quest>
 </quests>
