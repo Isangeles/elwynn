@@ -4,12 +4,18 @@
     <stage id="diaMarshalMcBride1_s1_1"
 	   ordinal="1"
 	   start="true">
-      <answer id="more1"
+      <answer id="diaMarshalMcBride1_s1_1_a1"
 	      to="2">
 	<reqs>
 	  <flag-req id="flagAThreatWithin1_start"/>
 	  <flag-req id="flagAThreatWithin1_talked"
 		    off="true"/>
+	</reqs>
+      </answer>
+      <answer id="diaMarshalMcBride1_s1_1_a2"
+	      to="6">
+	<reqs>
+	  <flag-req id="flagAThreatWithin1_talked"/>
 	</reqs>
       </answer>
       <answer id="bye1"
@@ -37,6 +43,11 @@
     </stage>
     <stage id="diaMarshalMcBride1_s5_1"
 	   ordinal="5">
+      <answer id="more1"
+	      to="1"/>
+    </stage>
+    <stage id="diaMarshalMcBride1_s6_1"
+	   ordinal="6">
       <answer id="bye1"
 	      end="true"/>
     </stage>
