@@ -1,4 +1,6 @@
 raceHuman:Human
-raceElf:Elf
+raceNightElf:Night Elf
 raceDwarf:Dwarf
 raceGnome:Gnome
+raceKobold:Kobold
+raceWolf:Wolf
