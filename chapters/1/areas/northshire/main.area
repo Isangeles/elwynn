@@ -3,12 +3,8 @@
       time="08:00AM">
   <characters>
     <character id="charDepWillem1"
-	       x="1187"
-	       y="914"
-	       dest-x="1187"
-	       dest-y="914"
-	       def-x="1187"
-	       def-y="914">
+	       init-x="1187"
+	       init-y="914">
       <flags>
 	<flag id="igniteNpc"/>
       </flags>
@@ -24,12 +20,8 @@
 	  time="8:00AM">
       <characters>
 	<character id="charMarshalMcBride1"
-		   x="486"
-		   y="190"
-		   dest-x="486"
-		   dest-y="190"
-		   def-x="486"
-		   def-y="190">
+		   init-x="486"
+		   init-y="190">
 	  <flags>
 	    <flag id="igniteNpc"/>
 	  </flags>
