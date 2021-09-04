@@ -4,7 +4,7 @@
 	level="18"
 	gender="genderMale"
 	race="raceKobold"
-	attitude="attHostile"
+	attitude="attNeutral"
 	alignment="aliChaoticEvil">
     <attributes strenght="2"
 		constitution="1"

@@ -4,7 +4,56 @@
   <characters>
     <character id="charDepWillem1"
 	       init-x="1187"
-	       init-y="914">
+	       init-y="914"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
+    <character id="charKoboldVermin1"
+	       init-x="569"
+	       init-y="1630"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
+    <character id="charKoboldVermin1"
+	       init-x="513"
+	       init-y="1841"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
+    <character id="charKoboldVermin1"
+	       init-x="248"
+	       init-y="1723"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
+    <character id="charKoboldVermin1"
+	       init-x="312"
+	       init-y="2052"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
+    <character id="charKoboldVermin1"
+	       init-x="552"
+	       init-y="2168"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
+    <character id="charKoboldVermin1"
+	       init-x="413"
+	       init-y="2315"
+	       respawn="300000">
       <flags>
 	<flag id="igniteNpc"/>
       </flags>
