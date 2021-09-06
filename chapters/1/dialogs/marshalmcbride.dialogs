@@ -16,6 +16,14 @@
 	      to="6">
 	<reqs>
 	  <flag-req id="flagAThreatWithin1_talked"/>
+	  <flag-req id="flagKoboldCampCleanup1_started"
+		    off="true"/>
+	</reqs>
+      </answer>
+      <answer id="diaMarshalMcBride1_s1_1_a3"
+	      to="7">
+	<reqs>
+	  <flag-req id="flagKoboldCampCleanup1_killed"/>
 	</reqs>
       </answer>
       <answer id="bye1"
@@ -50,6 +58,27 @@
 	   ordinal="6">
       <answer id="bye1"
 	      end="true"/>
+      <talker>
+	<modifiers>
+	  <quest-mod start="questKoboldCampCleanup1"/>
+	  <flag-mod id="flagKoboldCampCleanup1_started"/>
+	</modifiers>
+      </talker>
+    </stage>
+    <stage id="diaMarshalMcBride1_s7_1"
+	   ordinal="7">
+      <answer id="more1"
+	      to="8"/>
+    </stage>
+    <stage id="diaMarshalMcBride1_s8_1"
+	   ordinal="8">
+      <answer id="bye1"
+	      end="true"/>
+      <talker>
+	<modifiers>
+	  <flag-mod id="flagKoboldCampCleanup1_talked"/>
+	</modifiers>
+      </talker>
     </stage>
   </dialog>
 </dialogs>

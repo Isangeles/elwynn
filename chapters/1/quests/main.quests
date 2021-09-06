@@ -13,4 +13,34 @@
       </objectives>
     </stage>
   </quest>
+  <quest id="questKoboldCampCleanup1">
+    <stage id="questKoboldCampCleanup1_s1"
+	   ordinal="0"
+	   next="questKoboldCampCleanup1_s2">
+      <objectives>
+	<objective>
+	  <reqs>
+	    <kill-req id="charKoboldVermin1"
+		      amount="1"/>
+	  </reqs>
+	</objective>
+      </objectives>
+      <on-complete>
+	<flags>
+	  <flag id="flagKoboldCampCleanup1_killed"/>
+	</flags>
+      </on-complete>
+    </stage>
+    <stage id="questKoboldCampCleanup1_s2"
+	   ordinal="1"
+	   next="end">
+      <objectives>
+	<objective>
+	  <reqs>
+	    <flag-req id="flagKoboldCampCleanup1_talked"/>
+	  </reqs>
+	</objective>
+      </objectives>
+    </stage>
+  </quest>
 </quests>
