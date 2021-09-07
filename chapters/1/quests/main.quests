@@ -21,7 +21,7 @@
 	<objective>
 	  <reqs>
 	    <kill-req id="charKoboldVermin1"
-		      amount="1"/>
+		      amount="5"/>
 	  </reqs>
 	</objective>
       </objectives>
