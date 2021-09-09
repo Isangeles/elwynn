@@ -42,8 +42,13 @@
       </user>
     </use>
   </misc>
-  <misc id="imBronzeCoin1"
+  <misc id="itemGoldCoin1"
+	value="100"
+	currency="true"/>
+  <misc id="itemSilverCoin1"
+	value="50"
+	currency="true"/>
+  <misc id="itemCopperCoin1"
 	value="1"
-	level="1"
 	currency="true"/>
 </miscs>

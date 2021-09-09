@@ -14,6 +14,9 @@
     <inventory>
       <item id="iwIronSword"
 	    loot="true"/>
+      <item id="itemCopperCoin1"
+	    amount="10"
+	    loot="true"/>
     </inventory>
     <skills>
       <skill id="melee1"/>

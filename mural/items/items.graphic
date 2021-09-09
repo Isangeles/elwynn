@@ -9,8 +9,8 @@
  			     gender="*"/>
 	</spritesheets>
   </item-graphic>
-  <item-graphic id="imAloeLeaves1" 
- 	        icon="herb1.png" 
+  <item-graphic id="imAloeLeaves1"
+ 	        icon="herb1.png"
 	        stack="10"/>
   <item-graphic id="iaLeatherArmor1"
 	        icon="unknown.png" 
@@ -21,4 +21,13 @@
  			     gender="*"/>
 	</spritesheets>
   </item-graphic>
+  <item-graphic id="itemGoldCoin1"
+ 	        icon="goldCoins1.png"
+	        stack="100"/>
+  <item-graphic id="itemSilverCoin1"
+ 	        icon="silverCoins1.png"
+	        stack="100"/>
+  <item-graphic id="itemCopperCoin1"
+ 	        icon="goldCoins1.png"
+	        stack="100"/>
 </item-graphics>
