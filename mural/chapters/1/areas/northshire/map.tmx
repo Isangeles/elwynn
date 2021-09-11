@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="100" height="80" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="100" height="80" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
  <tileset firstgid="1" name="groundtiles1" tilewidth="32" tileheight="32" tilecount="399" columns="19">
   <image source="tilesets/groundtiles1.png" width="608" height="672"/>
  </tileset>
@@ -9,9 +9,15 @@
  <tileset firstgid="640" name="f808ef0cc20c9ea53f6e7a1b5710c5ee" tilewidth="32" tileheight="32" tilecount="63" columns="9">
   <image source="tilesets/f808ef0cc20c9ea53f6e7a1b5710c5ee.png" width="300" height="253"/>
  </tileset>
+ <tileset firstgid="703" name="1" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="tilesets/1.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="719" name="2" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="tilesets/2.png" width="128" height="128"/>
+ </tileset>
  <layer id="1" name="ground" width="100" height="80">
   <data encoding="base64" compression="zlib">
-   eJzt2lEKglAUBFDdSrUEqzXY/heUgsJD+gzuwD0f539gmKtYyzxNCwAAAAAAAAAAAAAAAAAAAAAAAABsbpv74RGQp7vn5nV4B+TpatzF2ccnIFdHexfjLmyjtotxE3sP62wbVewiy9mHTWQ4b5Vd1PNum2N8p9q7cKtq2UYW28hxvVXVebpzq7K4VVncqhyeHVk8O3KMXfheVe/sQw/1xm1UZ8EzPI0+Mvz6PbY6U2feqXKM21gD8nR2vVPVebq73qnqPN2N/xupzgL/8AXRDXk9
+   eJzt2sFtwkAQBVCnFZMScNIC0Av9X4OFVhqtwIkE0Yy87/BO5jDm68+uEMePaToCAAAAAAAAAAAAAAAAAAAAAAAAvGi+Ofwie8aRLDdff/C9keNngffYiz6P9Xs/B8/yWDae8d48rtPdo+889qI9uxR4jz3puxDPjpjH/CS/7Pn36PQgl16fz/pZ3fh/W5noRb7YG52ooe0qvcjnbltHvFOtWdhVuXSjFt2oo99V2fOMzq6qxa6qxa6qw9lRi7OjjpiF36vytTzkkC92I3sWnOHVyKOG9j8Fd6oa3KnqiN04F5hnZP2eyp5ndP2eyp5ndC0PWbAXPzqiejA=
   </data>
  </layer>
  <layer id="4" name="blockground" width="100" height="80">
@@ -26,7 +32,7 @@
  </layer>
  <layer id="2" name="buildings" width="100" height="80">
   <data encoding="base64" compression="zlib">
-   eJzt0TdOQwEURUGLtVMaqGxMATiRkwmSSYvjNGzBX4IZ6fRP745GAAAAAAAAAAAAAAAAAAAAAAB/w/7e0Bfwa9wWB3VYR3YZ3KQNpnVcszqxyWBO+/1Znde8FrWslU12at2/L+qyruq6buq27ureHjv10L8f66k29Vwv9VpvthjEtr+/10d91ld92wIAAAAAAAAAAAAA4F/5AUC8GiM=
+   eJzt0UlLQgEYhWHxt7dsWJW2aLTSLMsGKLVl0mC1Spr7LZ2FgQtbiVyI54EXL5e7kPOVSgAAAAAAAAAAAAAAAAAAAAAA/8Ncueh/wK/53GIhLaYldynccm6wkiqpmlbdpDBr2X49baTNtJW2U81NZuo6+/bHNt7J827aS/XUSPupmQ7SoXvMzE22vU136X60cyu/R+k4tdNJOk1n6dwtpvacDYd/7DjI+4f0mJ7GvrnI82XqpG7qpSu3mNpLNnxNb+l9tOe3XQvzke0/01fZHQAAAAAAAAAAAABgkh/eeiuF
   </data>
  </layer>
 </map>
