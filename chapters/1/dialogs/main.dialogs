@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<dialogs>
+  <dialog id="diaJanosHammerknuckle1">
+    <stage id="diaJanosHammerknuckle1_s1_1"
+	   ordinal="1"
+	   start="true">
+      <answer id="trade1"
+	      trade="true">
+      </answer>
+      <answer id="bye1"
+	      end="true"/>
+    </stage>
+  </dialog>
+</dialogs>
