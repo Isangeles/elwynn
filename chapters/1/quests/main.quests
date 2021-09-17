@@ -2,8 +2,9 @@
 <quests>
   <quest id="questAThreatWithin1">
     <stage id="questAThreatWithin1_s1"
-	   ordinal="0"
-	   next="end">
+	   ordinal="1"
+	   start="true"
+	   end="true">
       <objectives>
 	<objective>
 	  <reqs>
@@ -15,7 +16,8 @@
   </quest>
   <quest id="questKoboldCampCleanup1">
     <stage id="questKoboldCampCleanup1_s1"
-	   ordinal="0"
+	   ordinal="1"
+	   start="true"
 	   next="questKoboldCampCleanup1_s2">
       <objectives>
 	<objective>
@@ -32,8 +34,8 @@
       </on-complete>
     </stage>
     <stage id="questKoboldCampCleanup1_s2"
-	   ordinal="1"
-	   next="end">
+	   ordinal="2"
+	   end="true">
       <objectives>
 	<objective>
 	  <reqs>
