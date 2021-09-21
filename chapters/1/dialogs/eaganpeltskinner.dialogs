@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<dialogs>
+  <dialog id="diaEaganPeltskinner1">
+    <stage id="welcome1"
+	   ordinal="1"
+	   start="true">
+      <answer id="bye1"
+	      end="true"/>
+    </stage>
+  </dialog>
+</dialogs>

@@ -134,4 +134,22 @@
       <dialog id="diaGodricRothgar1"/>
     </dialogs>
   </char>
+  <char id="charEaganPeltskinner1"
+	level="3"
+	gender="genderMale"
+	race="raceHuman"
+	attitude="attFriendly"
+	alignment="aliLawfulGood">
+    <attributes strenght="2"
+		constitution="2"
+		dexterity="3"
+		inteligence="2"
+		wisdom="2"/>
+    <skills>
+      <skill id="melee1"/>
+    </skills>
+    <dialogs>
+      <dialog id="diaEaganPeltskinner1"/>
+    </dialogs>
+  </char>
 </characters>
