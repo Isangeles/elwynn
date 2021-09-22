@@ -6,8 +6,8 @@ diaMarshalMcBride1_s1_1:Hey, citizen! You look like a stout one. We guards are s
 diaMarshalMcBride1_s2_1:Ah, good. Another volunteer. We're getting a lot of you these days.
 diaMarshalMcBride1_s3_1:I hope it's enough.
 diaMarshalMcBride1_s4_1:The human land are threatened from without, and so many of our forces have been marshaled abroad. This, in turn, leaves room for corrupt and lawless groups to thrive within our borders.
-diaMarshalMcBride1_s5_1:It is a many-frontend battle we wage, @name. Grid yourself for a long campaign.
-diaMarshalMcBride1_s6_1:Your first task is one of cleansing, @name. A clan of kobolds have infested the woods to the north. Go there and fight the kobold vermin you find. Reduce their numbers so that we may one day drive them from Northshire.
+diaMarshalMcBride1_s5_1:It is a many-frontend battle we wage, @targetName. Grid yourself for a long campaign.
+diaMarshalMcBride1_s6_1:Your first task is one of cleansing, @targetName. A clan of kobolds have infested the woods to the north. Go there and fight the kobold vermin you find. Reduce their numbers so that we may one day drive them from Northshire.
 diaMarshalMcBride1_s1_1_a1:A Threat Within
 diaMarshalMcBride1_s1_1_a2:Kobold Camp Cleanup
 diaMarshalMcBride1_s1_1_a3:Kobold Camp Cleanup
