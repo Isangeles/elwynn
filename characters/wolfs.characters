@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <characters>
-  <char id="charYoungWolf1"
+  <character id="charYoungWolf1"
 	level="1"
 	gender="genderMale"
 	race="raceWolf"
@@ -14,5 +14,5 @@
     <skills>
       <skill id="melee1"/>
     </skills>
-  </char>
+  </character>
 </characters>

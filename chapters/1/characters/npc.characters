@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <characters>
-  <char id="charDepWillem1"
+  <character id="charDepWillem1"
 	level="18"
 	gender="genderMale"
 	race="raceHuman"
@@ -24,8 +24,8 @@
     <dialogs>
       <dialog id="diaDepWillem1"/>
     </dialogs>
-  </char>
-  <char id="charMarshalMcBride1"
+  </character>
+  <character id="charMarshalMcBride1"
 	level="20"
 	gender="genderMale"
 	race="raceHuman"
@@ -46,8 +46,8 @@
     <dialogs>
       <dialog id="diaMarshalMcBride1"/>
     </dialogs>
-  </char>
-  <char id="charJanosHammerknuckle1"
+  </character>
+  <character id="charJanosHammerknuckle1"
 	level="5"
 	gender="genderMale"
 	race="raceHuman"
@@ -64,8 +64,8 @@
     <dialogs>
       <dialog id="diaJanosHammerknuckle1"/>
     </dialogs>
-  </char>
-  <char id="charMerissaStilwell1"
+  </character>
+  <character id="charMerissaStilwell1"
 	level="5"
 	gender="genderFemale"
 	race="raceHuman"
@@ -79,8 +79,8 @@
     <skills>
       <skill id="melee1"/>
     </skills>
-  </char>
-  <char id="charBrotherDanil1"
+  </character>
+  <character id="charBrotherDanil1"
 	level="5"
 	gender="genderMale"
 	race="raceHuman"
@@ -97,8 +97,8 @@
     <dialogs>
       <dialog id="diaBrotherDanil1"/>
     </dialogs>
-  </char>
-  <char id="charDermontJohns1"
+  </character>
+  <character id="charDermontJohns1"
 	level="5"
 	gender="genderMale"
 	race="raceHuman"
@@ -115,8 +115,8 @@
     <dialogs>
       <dialog id="diaDermontJohns1"/>
     </dialogs>
-  </char>
-  <char id="charGodricRothgar1"
+  </character>
+  <character id="charGodricRothgar1"
 	level="5"
 	gender="genderMale"
 	race="raceHuman"
@@ -133,8 +133,8 @@
     <dialogs>
       <dialog id="diaGodricRothgar1"/>
     </dialogs>
-  </char>
-  <char id="charEaganPeltskinner1"
+  </character>
+  <character id="charEaganPeltskinner1"
 	level="3"
 	gender="genderMale"
 	race="raceHuman"
@@ -151,5 +151,5 @@
     <dialogs>
       <dialog id="diaEaganPeltskinner1"/>
     </dialogs>
-  </char>
+  </character>
 </characters>
