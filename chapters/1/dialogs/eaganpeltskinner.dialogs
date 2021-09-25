@@ -4,7 +4,14 @@
     <stage id="welcome1"
 	   ordinal="1"
 	   start="true">
+      <answer id="diaEaganPeltskinner1_s1_1_a1"
+	      to="2"/>
       <answer id="bye1"
+	      end="true"/>
+    </stage>
+    <stage id="diaEaganPeltskinner1_s2_1"
+	   ordinal="2">
+      <answer id="more1"
 	      end="true"/>
     </stage>
   </dialog>
