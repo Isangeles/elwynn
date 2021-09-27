@@ -5,7 +5,13 @@
 	   ordinal="1"
 	   start="true">
       <answer id="diaEaganPeltskinner1_s1_1_a1"
-	      to="2"/>
+	      to="2">
+	<reqs>
+	  <flag-req id="flagEaganPeltskinner1_start"/>
+	  <flag-req id="flagEaganPeltskinner1_talked"
+		    off="true"/>
+	</reqs>
+      </answer>
       <answer id="bye1"
 	      end="true"/>
     </stage>
@@ -13,6 +19,11 @@
 	   ordinal="2">
       <answer id="more1"
 	      end="true"/>
+      <talker>
+	<modifiers>
+	  <flag-mod id="flagEaganPeltskinner1_talked"/>
+	</modifiers>
+      </talker>
     </stage>
   </dialog>
 </dialogs>

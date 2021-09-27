@@ -50,6 +50,12 @@
 	   ordinal="6">
       <answer id="bye1"
 	      end="true"/>
+      <talker>
+	<modifiers>
+	  <quest-mod start="questEaganPeltskinner1"/>
+	  <flag-mod id="flagEaganPeltskinner1_start"/>
+	</modifiers>
+      </talker>
     </stage>
   </dialog>
 </dialogs>

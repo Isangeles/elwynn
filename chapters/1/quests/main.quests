@@ -45,4 +45,18 @@
       </objectives>
     </stage>
   </quest>
+  <quest id="questEaganPeltskinner1">
+    <stage id="questEaganPeltskinner1_s1"
+	   ordinal="1"
+	   start="true"
+	   end="true">
+      <objectives>
+	<objective>
+	  <reqs>
+	    <flag-req id="flagEaganPeltskinner1_talked"/>
+	  </reqs>
+	</objective>
+      </objectives>
+    </stage>
+  </quest>
 </quests>
