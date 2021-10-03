@@ -19,11 +19,11 @@
 	   ordinal="2">
       <answer id="more1"
 	      end="true"/>
-      <talker>
+      <target>
 	<modifiers>
 	  <flag-mod id="flagEaganPeltskinner1_talked"/>
 	</modifiers>
-      </talker>
+      </target>
     </stage>
   </dialog>
 </dialogs>

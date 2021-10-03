@@ -34,12 +34,12 @@
 	   ordinal="4">
       <answer id="bye1"
 	      end="true"/>
-      <talker>
+      <target>
 	<modifiers>
 	  <quest-mod start="questAThreatWithin1"/>
 	  <flag-mod id="flagAThreatWithin1_start"/>
 	</modifiers>
-      </talker>
+      </target>
     </stage>
     <stage id="diaDepWillem1_s5_1"
 	   ordinal="5">
@@ -50,12 +50,12 @@
 	   ordinal="6">
       <answer id="bye1"
 	      end="true"/>
-      <talker>
+      <target>
 	<modifiers>
 	  <quest-mod start="questEaganPeltskinner1"/>
 	  <flag-mod id="flagEaganPeltskinner1_start"/>
 	</modifiers>
-      </talker>
+      </target>
     </stage>
   </dialog>
 </dialogs>
