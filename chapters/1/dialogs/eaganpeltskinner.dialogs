@@ -12,18 +12,34 @@
 		    off="true"/>
 	</reqs>
       </answer>
+      <answer id="diaEaganPeltskinner1_s1_1_a2"
+	      to="3">
+	<reqs>
+	  <flag-req id="flagEaganPeltskinner1_talked"/>
+	</reqs>
+      </answer>
       <answer id="bye1"
 	      end="true"/>
     </stage>
     <stage id="diaEaganPeltskinner1_s2_1"
 	   ordinal="2">
       <answer id="more1"
-	      end="true"/>
+	      to="1"/>
       <target>
 	<modifiers>
 	  <flag-mod id="flagEaganPeltskinner1_talked"/>
 	</modifiers>
       </target>
+    </stage>
+    <stage id="diaEaganPeltskinner1_s3_1"
+	   ordinal="3">
+      <answer id="more1"
+	      to="4"/>
+    </stage>
+    <stage id="diaEaganPeltskinner1_s4_1"
+	   ordinal="4">
+      <answer id="more1"
+	      to="1"/>
     </stage>
   </dialog>
 </dialogs>
