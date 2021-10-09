@@ -106,6 +106,46 @@
 	<flag id="igniteNpc"/>
       </flags>
     </character>
+    <character id="charYoungWolf1"
+	       init-x="332"
+	       init-y="1102"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
+    <character id="charYoungWolf1"
+	       init-x="214"
+	       init-y="939"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
+    <character id="charYoungWolf1"
+	       init-x="271"
+	       init-y="780"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
+    <character id="charYoungWolf1"
+	       init-x="142"
+	       init-y="640"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
+    <character id="charYoungWolf1"
+	       init-x="335"
+	       init-y="503"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
   </characters>
   <objects>
     <object id="northshireAbbeyEnter1"

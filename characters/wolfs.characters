@@ -14,5 +14,9 @@
     <skills>
       <skill id="melee1"/>
     </skills>
+    <inventory>
+      <item id="imToughWolfMeat1"
+	    loot="true"/>
+    </inventory>
   </character>
 </characters>
