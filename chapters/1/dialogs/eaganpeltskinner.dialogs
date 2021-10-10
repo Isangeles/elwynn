@@ -16,6 +16,16 @@
 	      to="3">
 	<reqs>
 	  <flag-req id="flagEaganPeltskinner1_talked"/>
+	  <flag-req id="flagWolvesAcrossBorder1_started"
+		    off="true"/>
+	</reqs>
+      </answer>
+      <answer id="diaEaganPeltskinner1_s1_1_a3"
+	      to="5">
+	<reqs>
+	  <flag-req id="flagWolvesAcrossBorder1_gathered"/>
+	  <flag-req id="flagWolvesAcrossBorder1_talked"
+		    off="true"/>
 	</reqs>
       </answer>
       <answer id="bye1"
@@ -40,6 +50,27 @@
 	   ordinal="4">
       <answer id="more1"
 	      to="1"/>
+      <target>
+	<modifiers>
+	  <quest-mod start="questWolvesAcrossBorder1"/>
+	  <flag-mod id="flagWolvesAcrossBorder1_started"/>
+	</modifiers>
+      </target>
+    </stage>
+    <stage id="diaEaganPeltskinner1_s5_1"
+	   ordinal="5">
+      <answer id="more1"
+	      to="6"/>
+    </stage>
+    <stage id="diaEaganPeltskinner1_s6_1"
+	   ordinal="6">
+      <answer id="more1"
+	      to="1"/>
+      <target>
+	<modifiers>
+	  <flag-mod id="flagWolvesAcrossBorder1_talked"/>
+	</modifiers>
+      </target>
     </stage>
   </dialog>
 </dialogs>

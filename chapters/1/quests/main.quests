@@ -59,4 +59,35 @@
       </objectives>
     </stage>
   </quest>
+  <quest id="questWolvesAcrossBorder1">
+    <stage id="questWolvesAcrossBorder1_s1"
+	   ordinal="1"
+	   start="true"
+	   next="questWolvesAcrossBorder1_s2">
+      <objectives>
+	<objective>
+	  <reqs>
+	    <item-req id="imToughWolfMeat1"
+		      amount="3"/>
+	  </reqs>
+	</objective>
+      </objectives>
+      <on-complete>
+	<flags>
+	  <flag id="flagWolvesAcrossBorder1_gathered"/>
+	</flags>
+      </on-complete>
+    </stage>
+    <stage id="questWolvesAcrossBorder1_s2"
+	   ordinal="2"
+	   end="true">
+      <objectives>
+	<objective>
+	  <reqs>
+	    <flag-req id="flagWolvesAcrossBorder1_talked"/>
+	  </reqs>
+	</objective>
+      </objectives>
+    </stage>
+  </quest>
 </quests>
