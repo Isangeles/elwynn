@@ -7,15 +7,14 @@
       <answer id="diaMarshalMcBride1_s1_1_a1"
 	      to="2">
 	<reqs>
-	  <flag-req id="flagAThreatWithin1_start"/>
-	  <flag-req id="flagAThreatWithin1_talked"
-		    off="true"/>
+	  <quest-req id="questAThreatWithin1"/>
 	</reqs>
       </answer>
       <answer id="diaMarshalMcBride1_s1_1_a2"
 	      to="6">
 	<reqs>
-	  <flag-req id="flagAThreatWithin1_talked"/>
+	  <quest-req id="questAThreatWithin1"
+		     completed="true"/>
 	  <flag-req id="flagKoboldCampCleanup1_started"
 		    off="true"/>
 	</reqs>
@@ -23,6 +22,7 @@
       <answer id="diaMarshalMcBride1_s1_1_a3"
 	      to="7">
 	<reqs>
+	  <quest-req id="questKoboldCampCleanup1"/>
 	  <flag-req id="flagKoboldCampCleanup1_killed"/>
 	</reqs>
       </answer>

@@ -7,9 +7,7 @@
       <answer id="diaEaganPeltskinner1_s1_1_a1"
 	      to="2">
 	<reqs>
-	  <flag-req id="flagEaganPeltskinner1_start"/>
-	  <flag-req id="flagEaganPeltskinner1_talked"
-		    off="true"/>
+	  <quest-req id="questEaganPeltskinner1"/>
 	</reqs>
       </answer>
       <answer id="diaEaganPeltskinner1_s1_1_a2"
@@ -23,9 +21,8 @@
       <answer id="diaEaganPeltskinner1_s1_1_a3"
 	      to="5">
 	<reqs>
+	  <quest-req id="questWolvesAcrossBorder1"/>
 	  <flag-req id="flagWolvesAcrossBorder1_gathered"/>
-	  <flag-req id="flagWolvesAcrossBorder1_talked"
-		    off="true"/>
 	</reqs>
       </answer>
       <answer id="bye1"
