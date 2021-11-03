@@ -19,7 +19,7 @@
     <use cast-max="3000">
       <target-user>
 	<effects>
-	  <effect id="heal1"/>
+	  <effect id="effHeal1"/>
 	</effects>
       </target-user>
       <reqs>
@@ -37,7 +37,7 @@
     <use>
       <user>
 	<effects>
-	  <effect id="heal2"/>
+	  <effect id="effHeal2"/>
 	</effects>
       </user>
     </use>

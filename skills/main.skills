@@ -4,7 +4,7 @@
     <use>
       <target>
 	<effects>
-	  <effect id="hit1"/>
+	  <effect id="effHit1"/>
 	</effects>
       </target>
       <reqs>
@@ -17,8 +17,8 @@
 	 cooldown-max="5000">
       <target>
 	<effects>
-	  <effect id="fireHit1"/>
-	  <effect id="burn1"/>
+	  <effect id="effFireHit1"/>
+	  <effect id="effBurn1"/>
 	</effects>
       </target>
       <reqs>

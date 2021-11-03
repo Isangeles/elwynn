@@ -10,7 +10,7 @@
       <min>1</min>
       <max>10</max>
       <effects>
-	<effect id="bleed1"/>
+	<effect id="effBleed1"/>
       </effects>
     </damage>
   </weapon>
