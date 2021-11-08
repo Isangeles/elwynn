@@ -19,7 +19,7 @@
 	    loot="true"/>
     </inventory>
     <skills>
-      <skill id="melee1"/>
+	    <skill id="skillMelee1"/>
     </skills>
     <dialogs>
       <dialog id="diaDepWillem1"/>
@@ -41,7 +41,7 @@
 	    loot="true"/>
     </inventory>
     <skills>
-      <skill id="melee1"/>
+      <skill id="skillMelee1"/>
     </skills>
     <dialogs>
       <dialog id="diaMarshalMcBride1"/>
@@ -59,7 +59,7 @@
 		inteligence="2"
 		wisdom="2"/>
     <skills>
-      <skill id="melee1"/>
+      <skill id="skillMelee1"/>
     </skills>
     <dialogs>
       <dialog id="diaJanosHammerknuckle1"/>
@@ -77,7 +77,7 @@
 		inteligence="2"
 		wisdom="3"/>
     <skills>
-      <skill id="melee1"/>
+      <skill id="skillMelee1"/>
     </skills>
   </character>
   <character id="charBrotherDanil1"
@@ -92,7 +92,7 @@
 		inteligence="2"
 		wisdom="2"/>
     <skills>
-      <skill id="melee1"/>
+      <skill id="skillMelee1"/>
     </skills>
     <dialogs>
       <dialog id="diaBrotherDanil1"/>
@@ -110,7 +110,7 @@
 		inteligence="2"
 		wisdom="2"/>
     <skills>
-      <skill id="melee1"/>
+      <skill id="skillMelee1"/>
     </skills>
     <dialogs>
       <dialog id="diaDermontJohns1"/>
@@ -128,7 +128,7 @@
 		inteligence="2"
 		wisdom="3"/>
     <skills>
-      <skill id="melee1"/>
+      <skill id="skillMelee1"/>
     </skills>
     <dialogs>
       <dialog id="diaGodricRothgar1"/>
@@ -146,7 +146,7 @@
 		inteligence="2"
 		wisdom="2"/>
     <skills>
-      <skill id="melee1"/>
+      <skill id="skillMelee1"/>
     </skills>
     <dialogs>
       <dialog id="diaEaganPeltskinner1"/>

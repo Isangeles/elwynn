@@ -16,7 +16,7 @@
 	    loot="true"/>
     </inventory>
     <skills>
-      <skill id="melee1"/>
+      <skill id="skillMelee1"/>
     </skills>
   </character>
 </characters>

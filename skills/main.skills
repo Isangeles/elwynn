@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <skills>
-  <skill id="melee1">
+  <skill id="skillMelee1">
     <use>
       <target>
 	<effects>
@@ -12,7 +12,7 @@
       </reqs>
     </use>
   </skill>
-  <skill id="fireball1">
+  <skill id="skillFireball1">
     <use cast-max="3000"
 	 cooldown-max="5000">
       <target>
