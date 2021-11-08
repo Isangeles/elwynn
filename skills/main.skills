@@ -26,4 +26,11 @@
       </reqs>
     </use>
   </skill>
+  <skill id="skillReg1">
+    <passive>
+      <effects>
+	<effect id="effHpReg1"/>
+      </effects>
+    </passive>
+  </skill>
 </skills>
