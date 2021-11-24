@@ -18,9 +18,6 @@
 	    amount="10"
 	    loot="true"/>
     </inventory>
-    <skills>
-	    <skill id="skillMelee1"/>
-    </skills>
     <dialogs>
       <dialog id="diaDepWillem1"/>
     </dialogs>
@@ -40,9 +37,6 @@
       <item id="iwIronSword"
 	    loot="true"/>
     </inventory>
-    <skills>
-      <skill id="skillMelee1"/>
-    </skills>
     <dialogs>
       <dialog id="diaMarshalMcBride1"/>
     </dialogs>
@@ -58,9 +52,6 @@
 		dexterity="2"
 		inteligence="2"
 		wisdom="2"/>
-    <skills>
-      <skill id="skillMelee1"/>
-    </skills>
     <dialogs>
       <dialog id="diaJanosHammerknuckle1"/>
     </dialogs>
@@ -76,9 +67,6 @@
 		dexterity="2"
 		inteligence="2"
 		wisdom="3"/>
-    <skills>
-      <skill id="skillMelee1"/>
-    </skills>
   </character>
   <character id="charBrotherDanil1"
 	level="5"
@@ -91,9 +79,6 @@
 		dexterity="2"
 		inteligence="2"
 		wisdom="2"/>
-    <skills>
-      <skill id="skillMelee1"/>
-    </skills>
     <dialogs>
       <dialog id="diaBrotherDanil1"/>
     </dialogs>
@@ -109,9 +94,6 @@
 		dexterity="3"
 		inteligence="2"
 		wisdom="2"/>
-    <skills>
-      <skill id="skillMelee1"/>
-    </skills>
     <dialogs>
       <dialog id="diaDermontJohns1"/>
     </dialogs>
@@ -127,9 +109,6 @@
 		dexterity="2"
 		inteligence="2"
 		wisdom="3"/>
-    <skills>
-      <skill id="skillMelee1"/>
-    </skills>
     <dialogs>
       <dialog id="diaGodricRothgar1"/>
     </dialogs>
@@ -145,9 +124,6 @@
 		dexterity="3"
 		inteligence="2"
 		wisdom="2"/>
-    <skills>
-      <skill id="skillMelee1"/>
-    </skills>
     <dialogs>
       <dialog id="diaEaganPeltskinner1"/>
     </dialogs>

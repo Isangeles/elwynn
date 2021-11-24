@@ -11,9 +11,6 @@
 		dexterity="3"
 		inteligence="1"
 		wisdom="1"/>
-    <skills>
-      <skill id="skillMelee1"/>
-    </skills>
     <inventory>
       <item id="imToughWolfMeat1"
 	    loot="true"/>

@@ -15,8 +15,5 @@
       <item id="iwIronSword"
 	    loot="true"/>
     </inventory>
-    <skills>
-      <skill id="skillMelee1"/>
-    </skills>
   </character>
 </characters>
