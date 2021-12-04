@@ -26,11 +26,16 @@
       </reqs>
     </use>
   </skill>
-  <skill id="skillReg1">
+  <skill id="skillHpReg1">
     <passive>
       <effects>
 	<effect id="effHpReg1"/>
       </effects>
+      <reqs>
+	<health-req percent="100"
+		    less="true"/>
+	<combat-req combat="false"/>
+      </reqs>
     </passive>
   </skill>
 </skills>
