@@ -42,7 +42,7 @@
     </modifiers>
   </effect>
   <effect id="effHpReg1"
-	  infinite="true">
+	  duration="1000">
     <modifiers>
       <health-mod min="1"
 		  max="1"/>
