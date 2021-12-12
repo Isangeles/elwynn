@@ -38,4 +38,16 @@
       </reqs>
     </passive>
   </skill>
+  <skill id="skillManaReg1">
+    <passive>
+      <effects>
+	<effect id="effManaReg1"/>
+      </effects>
+      <reqs>
+	<mana-req percent="100"
+		    less="true"/>
+	<combat-req combat="false"/>
+      </reqs>
+    </passive>
+  </skill>
 </skills>
