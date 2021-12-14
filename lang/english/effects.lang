@@ -1,3 +1,8 @@
-hit1:Hit;
-hit2:Hit;
-bleed1:Bleed;
+effHit1:Hit
+effBleed1:Bleed
+effHeal1:Heal
+effHeal2:Heal
+effFireHit1:Fire
+effBurn1:Burn
+effHpReg1:Health regeneration
+effManaReg1:Mana regeneration
