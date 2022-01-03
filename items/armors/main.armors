@@ -8,4 +8,12 @@
       <slot id="itSlotChest"/>
     </slots>
   </armor>
+  <armor id="itemSteelArmor1"
+	 value="1000"
+	 level="3"
+	 armor="100">
+    <slots>
+      <slot id="itSlotChest"/>
+    </slots>
+  </armor>
 </armors>
