@@ -1,15 +1,11 @@
 <?xml version="1.0"?>
 <armors>
-  <armor id="iaLeatherArmor1"
+  <armor id="itemLeatherArmor1"
 	 value="100"
 	 level="2"
 	 armor="10">
     <slots>
       <slot id="itSlotChest"/>
     </slots>
-    <equip>
-      <reqs></reqs>
-      <effects></effects>
-    </equip>
   </armor>
 </armors>
