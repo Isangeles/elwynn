@@ -1,22 +1,22 @@
 ## Introduction
-Elwynn is a [Flame](https://github.com/Isangeles/flame) module that recreates WoW legendary Elwynn Forest area, including quests, characters, items, etc.
+Elwynn is a [Flame](https://github.com/Isangeles/flame) module that recreates WoW Elwynn Forest area, including quests, characters, items, etc.
 
 ## Usage
 You can use this module with [Mural](https://github.com/Isangeles/mural) or [Burn Shell](https://github.com/Isangeles/burnsh) interface.
 
 For example, to use this module with [Mural](https://github.com/Isangeles/mural) just place it in
-`data/modules/arena` directory.
+`data/modules/elwynn` directory.
 
 Then set `module` variable in `.mural` to:
 ```
-module:arena
+module:elwynn
 ```
 
 ## Contact
 * Isangeles <<dev@isangeles.pl>>
 
 ## License
-Copyright (c) 2021 Dariusz Sikora<<dev@isangeles.pl>>
+Copyright (c) 2021-2022 Dariusz Sikora<<dev@isangeles.pl>>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
