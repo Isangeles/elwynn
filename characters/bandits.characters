@@ -4,8 +4,9 @@
 	level="3"
 	gender="genderMale"
 	race="raceHuman"
-	attitude="attNeutral"
-	alignment="aliNeutralEvil">
+	attitude="attHostile"
+	alignment="aliNeutralEvil"
+	guild="guildDefiasBh1">
     <attributes strenght="2"
 		constitution="2"
 		dexterity="3"
@@ -27,8 +28,9 @@
 	level="4"
 	gender="genderFemale"
 	race="raceHuman"
-	attitude="attNeutral"
-	alignment="aliNeutralEvil">
+	attitude="attHostile"
+	alignment="aliNeutralEvil"
+	guild="guildDefiasBh1">
     <attributes strenght="2"
 		constitution="2"
 		dexterity="3"
