@@ -14,7 +14,7 @@
       <answer id="diaDepWillem1_s1_1_a2"
 	      to="5">
 	<reqs>
-	  <flag-req id="flagKoboldCampCleanup1_started"/>
+	  <flag-req id="flagAThreatWithin1_completed"/>
 	  <flag-req id="flagEaganPeltskinner1_start"
 		    off="true"/>
 	</reqs>

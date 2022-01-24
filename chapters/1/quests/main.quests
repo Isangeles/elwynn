@@ -12,6 +12,11 @@
 	  </reqs>
 	</objective>
       </objectives>
+      <on-complete>
+	<flags>
+	  <flag id="flagAThreatWithin1_completed"/>
+	</flags>
+      </on-complete>
     </stage>
   </quest>
   <quest id="questKoboldCampCleanup1">
