@@ -95,4 +95,40 @@
       </objectives>
     </stage>
   </quest>
+  <quest id="questBrotherhoodOfThieves1">
+    <stage id="questBrotherhoodOfThieves_s1"
+	   ordinal="1"
+	   start="true"
+	   next="questBrotherhoodOfThieves1_s2">
+      <objectives>
+	<objective>
+	  <reqs>
+	    <item-req id="itemRedBurlapBandana1"
+		      amount="1"/>
+	  </reqs>
+	</objective>
+      </objectives>
+      <on-complete>
+	<flags>
+	  <flag id="flagBrotherhoodOfThieves1_gathered"/>
+	</flags>
+      </on-complete>
+    </stage>
+    <stage id="questBrotherhoodOfThieves1_s2"
+	   ordinal="2"
+	   end="true">
+      <objectives>
+	<objective>
+	  <reqs>
+	    <flag-req id="flagBrotherhoodOfThieves1_talked"/>
+	  </reqs>
+	</objective>
+      </objectives>
+      <on-complete>
+	<flags>
+	  <flag id="flagBrotherhoodOfThieves1_completed"/>
+	</flags>
+      </on-complete>
+    </stage>
+  </quest>
 </quests>

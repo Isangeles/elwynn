@@ -19,6 +19,22 @@
 		    off="true"/>
 	</reqs>
       </answer>
+      <answer id="diaDepWillem1_s1_1_a3"
+	      to="7">
+	<reqs>
+	  <flag-req id="flagAThreatWithin1_completed"/>
+	  <flag-req id="flagBrotherhoodOfThieves1_started"
+		    off="true"/>
+	</reqs>
+      </answer>
+      <answer id="diaDepWillem1_s1_1_a4"
+	      to="9">
+	<reqs>
+	  <flag-req id="flagBrotherhoodOfThieves1_started"/>
+	  <flag-req id="flagBrotherhoodOfThieves1_completed"
+		    off="true"/>
+	</reqs>
+      </answer>
       <answer id="bye1"
 	      end="true"/>
     </stage>
@@ -50,14 +66,52 @@
     </stage>
     <stage id="diaDepWillem1_s6_1"
 	   ordinal="6">
-      <answer id="bye1"
-	      end="true"/>
+      <answer id="more1"
+	      to="1"/>
       <target>
 	<modifiers>
 	  <quest-mod start="questEaganPeltskinner1"/>
 	  <flag-mod id="flagEaganPeltskinner1_start"/>
 	</modifiers>
       </target>
+    </stage>
+    <stage id="diaDepWillem1_s7_1"
+	   ordinal="7">
+      <answer id="more1"
+	      to="8"/>
+    </stage>
+    <stage id="diaDepWillem1_s8_1"
+	   ordinal="8">
+      <answer id="more1"
+	      to="1"/>
+      <target>
+	<modifiers>
+	  <quest-mod start="questBrotherhoodOfThieves1"/>
+	  <flag-mod id="flagBrotherhoodOfThieves1_started"/>
+	</modifiers>
+      </target>
+    </stage>
+    <stage id="diaDepWillem1_s9_1"
+	   ordinal="9">
+      <answer id="more1"
+	      to="1"/>
+      <reqs>
+	<flag-req id="flagBrotherhoodOfThieves1_gathered"
+		  off="true"/>
+      </reqs>
+    </stage>
+    <stage id="diaDepWillem1_s9_2"
+	   ordinal="9">
+      <answer id="more1"
+	      to="1"/>
+      <target>
+	<modifiers>
+	  <flag-mod id="flagBrotherhoodOfThieves1_talked"/>
+	</modifiers>
+      </target>
+      <reqs>
+	<flag-req id="flagBrotherhoodOfThieves1_gathered"/>
+      </reqs>
     </stage>
   </dialog>
 </dialogs>
