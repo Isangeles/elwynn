@@ -104,7 +104,7 @@
 	<objective>
 	  <reqs>
 	    <item-req id="itemRedBurlapBandana1"
-		      amount="1"/>
+		      amount="6"/>
 	  </reqs>
 	</objective>
       </objectives>
