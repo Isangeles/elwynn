@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="100" height="80" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="100" height="80" tilewidth="32" tileheight="32" infinite="0" nextlayerid="6" nextobjectid="1">
  <tileset firstgid="1" name="groundtiles1" tilewidth="32" tileheight="32" tilecount="399" columns="19">
   <image source="tilesets/groundtiles1.png" width="608" height="672"/>
  </tileset>
@@ -15,9 +15,17 @@
  <tileset firstgid="719" name="2" tilewidth="32" tileheight="32" tilecount="16" columns="4">
   <image source="tilesets/2.png" width="128" height="128"/>
  </tileset>
+ <tileset firstgid="735" name="watertileset3qb2tg0" tilewidth="32" tileheight="32" tilecount="120" columns="12">
+  <image source="tilesets/watertileset3qb2tg0.png" width="410" height="331"/>
+ </tileset>
  <layer id="1" name="ground" width="100" height="80">
   <data encoding="base64" compression="zlib">
-   eJzt2sFtwkAQBVCnFZMScNIC0Av9X4OFVhqtwIkE0Yy87/BO5jDm68+uEMePaToCAAAAAAAAAAAAAAAAAAAAAAAAvGi+Ofwie8aRLDdff/C9keNngffYiz6P9Xs/B8/yWDae8d48rtPdo+889qI9uxR4jz3puxDPjpjH/CS/7Pn36PQgl16fz/pZ3fh/W5noRb7YG52ooe0qvcjnbltHvFOtWdhVuXSjFt2oo99V2fOMzq6qxa6qxa6qw9lRi7OjjpiF36vytTzkkC92I3sWnOHVyKOG9j8Fd6oa3KnqiN04F5hnZP2eyp5ndP2eyp5ndC0PWbAXPzqiejA=
+   eJzt2lFqwlAQBdCIO9HuQG23ULsX9/+rQR4MD00LVWbIOx/nKyKTXO68IB4303QEAAAAAAAAAAAAAAAAAAAAAAAA+Kfdzf4X2TOO5HTz+QdfCzl+FLiPtejzmJ/7OXiWx2nhGq/N4zLdPXrmsRft2k+B+1iTvgvx7Ih57J7klz3/Gn0/yKXX5zN/VjfebykTvcgXe6MTNbRdpRf5vNvWEd+p5izsqly6UYtu1NHvqux5RmdX1WJX1WJX1eHsqMXZUUfMwu9V+VoecsgXu5E9C87wauRRQ/ufgneqGrxT1RG7cS4wz8j6PZU9z+j6PZU9z+haHrIgw2H7+u+8Ajr0ejE=
+  </data>
+ </layer>
+ <layer id="5" name="water" width="100" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt3bFKQ0EQheFL0qmgXYRthS0Vor0+gIrv/wxq4QPEDXhhWCwkzfmR/4Mt0gWGM7N374YsiySd5nK7LA8/62Kb/jZqpR7X1iOul3rcWI+4Zr9C6fYrlP2owb39CmXtWYfN+GBN4taede4MQWilHs6QvJoPZ0hes1+hdPsVSrNfoaz5uB3rznpEHc93r3w+x6jnV/aqvHp+5d4qz/cfLL7/YHF+sDg/WJwfLM4PjvosaL/Kq73KfpXXp3rYr7LmfNivsuZ82K+y5nzYr7LmfNivstxfsbi/Ypnz4f3ErDkfO2dI1P6XejhDsur99p0zBKHZr1CeRw1exnod6816SJL+6H08B36M9TnW1yb9bVT3Vz6j5/VSD/e8eW2qhxnJms+xzsxIVD0zWevhOVZWrYn5YGjmA6WbD5Saj4PPhnF9munue7PmfZZ3gPK8A8TiHTkW88FiPljMB4v5YDEfLOaDxXywmA8W88FiPljMB4v5YDEfLOaDxXyw+BtoFvsVy/wO3X6V9zhq8GS/QmnmA2WdI97BYljniP+Z8799A5b7Qxs=
   </data>
  </layer>
  <layer id="4" name="blockground" width="100" height="80">
