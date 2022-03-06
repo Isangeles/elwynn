@@ -157,7 +157,8 @@
 	gender="genderMale"
 	race="raceHuman"
 	attitude="attHostile"
-	alignment="aliChaoticEvil">
+	alignment="aliChaoticEvil"
+	guild="guildDefiasBh1">
     <attributes strenght="4"
 		constitution="3"
 		dexterity="3"

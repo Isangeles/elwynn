@@ -195,7 +195,7 @@
       </flags>
     </character>
     <character id="charDefiasThug1"
-	       init-x="3200"
+	       init-x="2900"
 	       init-y="1000"
 	       respawn="300000">
       <flags>
@@ -203,7 +203,7 @@
       </flags>
     </character>
     <character id="charDefiasThug2"
-	       init-x="3200"
+	       init-x="3000"
 	       init-y="1400"
 	       respawn="300000">
       <flags>
@@ -221,6 +221,14 @@
     <character id="charDefiasThug1"
 	       init-x="3300"
 	       init-y="1100"
+	       respawn="300000">
+      <flags>
+	<flag id="igniteNpc"/>
+      </flags>
+    </character>
+    <character id="charGarrickPadfoot1"
+	       init-x="3005"
+	       init-y="1883"
 	       respawn="300000">
       <flags>
 	<flag id="igniteNpc"/>
