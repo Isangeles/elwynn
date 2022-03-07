@@ -167,6 +167,10 @@
     <inventory>
       <item id="itemLeatherArmor1"
 	    loot="true"/>
+      <item id="itemRedBurlapBandana1"
+	    loot="true"/>
+      <item id="itemGarricksHead1"
+	    loot="true"/>
     </inventory>
     <equipment>
       <item id="itemLeatherArmor1"

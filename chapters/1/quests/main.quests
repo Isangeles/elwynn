@@ -131,4 +131,40 @@
       </on-complete>
     </stage>
   </quest>
+  <quest id="questBountyOnGarrickPadfoot1">
+    <stage id="questBountyOnGarrickPadfoot1_s1"
+	   ordinal="1"
+	   start="true"
+	   next="questBountyOnGarrickPadfoot1_s2">
+      <objectives>
+	<objective>
+	  <reqs>
+	    <item-req id="itemGarricksHead1"
+		      amount="1"/>
+	  </reqs>
+	</objective>
+      </objectives>
+      <on-complete>
+	<flags>
+	  <flag id="questBountyOnGarrickPadfoot1_gathered"/>
+	</flags>
+      </on-complete>
+    </stage>
+    <stage id="questBountyOnGarrickPadfoot1_s2"
+	   ordinal="2"
+	   end="true">
+      <objectives>
+	<objective>
+	  <reqs>
+	    <flag-req id="questBountyOnGarrickPadfoot1_talked"/>
+	  </reqs>
+	</objective>
+      </objectives>
+      <on-complete>
+	<flags>
+	  <flag id="questBountyOnGarrickPadfoot1_completed"/>
+	</flags>
+      </on-complete>
+    </stage>
+  </quest>
 </quests>

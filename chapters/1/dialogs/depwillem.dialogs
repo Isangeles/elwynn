@@ -35,6 +35,22 @@
 		    off="true"/>
 	</reqs>
       </answer>
+      <answer id="diaDepWillem1_s1_1_a5"
+	      to="10">
+	<reqs>
+	  <flag-req id="flagBrotherhoodOfThieves1_completed"/>
+	  <flag-req id="flagBountyOnGarrickPadfoot1_started"
+		    off="true"/>
+	</reqs>
+      </answer>
+      <answer id="diaDepWillem1_s1_1_a6"
+	      to="12">
+	<reqs>
+	  <flag-req id="flagBountyOnGarrickPadfoot1_started"/>
+	  <flag-req id="flagBountyOnGarrickPadfoot1_completed"
+		    off="true"/>
+	</reqs>
+      </answer>
       <answer id="bye1"
 	      end="true"/>
     </stage>
@@ -111,6 +127,44 @@
       </target>
       <reqs>
 	<flag-req id="flagBrotherhoodOfThieves1_gathered"/>
+      </reqs>
+    </stage>
+    <stage id="diaDepWillem1_s10_1"
+	   ordinal="10">
+      <answer id="more1"
+	      to="11"/>
+    </stage>
+    <stage id="diaDepWillem1_s11_1"
+	   ordinal="11">
+      <answer id="more1"
+	      to="1"/>
+      <target>
+	<modifiers>
+	  <quest-mod start="questBountyOnGarrickPadfoot1"/>
+	  <flag-mod id="flagBountyOnGarrickPadfoot1_started"/>
+	</modifiers>
+      </target>
+    </stage>
+    <stage id="diaDepWillem1_s12_1"
+	   ordinal="12">
+      <answer id="more1"
+	      to="1"/>
+      <reqs>
+	<flag-req id="flagBountyOnGarrickPadfoot1_gathered"
+		  off="true"/>
+      </reqs>
+    </stage>
+    <stage id="diaDepWillem1_s12_2"
+	   ordinal="12">
+      <answer id="more1"
+	      to="1"/>
+      <target>
+	<modifiers>
+	  <flag-mod id="flagBountyOnGarrickPadfoot1_talked"/>
+	</modifiers>
+      </target>
+      <reqs>
+	<flag-req id="flagBountyOnGarrickPadfoot1_gathered"/>
       </reqs>
     </stage>
   </dialog>

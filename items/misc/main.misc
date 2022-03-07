@@ -56,4 +56,6 @@
 	currency="true"/>
   <misc id="itemRedBurlapBandana1"
 	value="1"/>
+  <misc id="itemGarricksHead1"
+	value="1"/>
 </miscs>
