@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <item-graphics>
-  <item-graphic id="iwIronSword"
+  <item-graphic id="itemIronSword"
 	        icon="sword1.png" 
 	        stack="10">
 	<spritesheets>
@@ -9,7 +9,7 @@
  			     gender="*"/>
 	</spritesheets>
   </item-graphic>
-  <item-graphic id="imAloeLeaves1"
+  <item-graphic id="itemAloeLeaves1"
  	        icon="herb1.png"
 	        stack="10"/>
   <item-graphic id="itemLeatherArmor1"

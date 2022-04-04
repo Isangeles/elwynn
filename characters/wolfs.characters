@@ -12,7 +12,7 @@
 		inteligence="1"
 		wisdom="1"/>
     <inventory>
-      <item id="imToughWolfMeat1"
+      <item id="itemToughWolfMeat1"
 	    loot="true"/>
     </inventory>
   </character>

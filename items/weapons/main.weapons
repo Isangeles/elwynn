@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <weapons>
-  <weapon id="iwIronSword"
+  <weapon id="itemIronSword"
 	  value="10"
 	  level="1">
     <slots>

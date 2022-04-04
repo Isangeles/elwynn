@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <miscs>
-  <misc id="imAloeLeaves1"
+  <misc id="itemAloeLeaves1"
 	value="5"
 	level="1"
 	consumable="true">
@@ -12,7 +12,7 @@
       </user>
     </use>
   </misc>
-  <misc id="imHealingKit1"
+  <misc id="itemHealingKit1"
 	value="5"
 	level="1"
 	consumable="true">
@@ -27,10 +27,10 @@
       </reqs>
     </use>
   </misc>
-  <misc id="imWater1"
+  <misc id="itemWater1"
 	value="1"
 	level="1"/>
-  <misc id="imAloeTea1"
+  <misc id="itemAloeTea1"
 	value="10"
 	level="1"
 	consumable="true">
@@ -42,7 +42,7 @@
       </user>
     </use>
   </misc>
-  <misc id="imToughWolfMeat1"
+  <misc id="itemToughWolfMeat1"
 	value="1"
 	level="1"/>
   <misc id="itemGoldCoin1"

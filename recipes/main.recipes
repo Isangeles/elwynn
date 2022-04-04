@@ -5,14 +5,14 @@
     <use cast-max="2000">
       <user>
 	<modifiers>
-	  <add-item-mod item-id="imAloeTea1"
+	  <add-item-mod item-id="itemAloeTea1"
 			amount="1"/>
 	</modifiers>
       </user>
       <reqs>
-	<item-req id="imAloeLeaves1"
+	<item-req id="itemAloeLeaves1"
 		  amount="2"/>
-	<item-req id="imWater1"
+	<item-req id="itemWater1"
 		  amount="1"/>
       </reqs>
     </use>
