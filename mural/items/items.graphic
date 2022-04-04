@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <item-graphics>
-  <item-graphic id="itemIronSword"
+  <item-graphic id="itemIronSword1"
 	        icon="sword1.png" 
 	        stack="10">
 	<spritesheets>

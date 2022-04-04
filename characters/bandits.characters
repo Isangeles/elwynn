@@ -13,7 +13,7 @@
 		inteligence="2"
 		wisdom="1"/>
     <inventory>
-      <item id="itemIronSword"
+      <item id="itemIronSword1"
 	    loot="true"/>
       <item id="itemCopperCoin1"
 	    amount="10"
@@ -23,7 +23,7 @@
 	    loot="true"/>
     </inventory>
     <equipment>
-      <item id="itemIronSword"
+      <item id="itemIronSword1"
 	    slot="itSlotHand"/>
     </equipment>
   </character>
@@ -40,7 +40,7 @@
 		inteligence="2"
 		wisdom="1"/>
     <inventory>
-      <item id="itemIronSword"
+      <item id="itemIronSword1"
 	    loot="true"/>
       <item id="itemCopperCoin1"
 	    amount="10"
@@ -50,7 +50,7 @@
 	    loot="true"/>
     </inventory>
     <equipment>
-      <item id="itemIronSword"
+      <item id="itemIronSword1"
 	    slot="itSlotHand"/>
     </equipment>
   </character>
