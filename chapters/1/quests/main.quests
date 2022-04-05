@@ -96,7 +96,7 @@
     </stage>
   </quest>
   <quest id="questBrotherhoodOfThieves1">
-    <stage id="questBrotherhoodOfThieves_s1"
+    <stage id="questBrotherhoodOfThieves1_s1"
 	   ordinal="1"
 	   start="true"
 	   next="questBrotherhoodOfThieves1_s2">
