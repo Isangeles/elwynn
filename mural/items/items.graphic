@@ -1,11 +1,20 @@
 <?xml version="1.0"?>
 <item-graphics>
   <item-graphic id="itemIronSword1"
-	        icon="sword1.png" 
+	        icon="sword1.png"
 	        stack="10">
 	<spritesheets>
-		<spritesheet texture="longsword-1222211-80x90.png" 
-	                     race="*" 
+		<spritesheet texture="longsword-1222211-80x90.png"
+	                     race="*"
+ 			     gender="*"/>
+	</spritesheets>
+  </item-graphic>
+  <item-graphic id="itemAshbringer1"
+	        icon="sword1.png"
+	        stack="1">
+	<spritesheets>
+		<spritesheet texture="longsword-1222211-80x90.png"
+	                     race="*"
  			     gender="*"/>
 	</spritesheets>
   </item-graphic>
@@ -13,7 +22,7 @@
  	        icon="herb1.png"
 	        stack="10"/>
   <item-graphic id="itemLeatherArmor1"
-	        icon="unknown.png" 
+	        icon="unknown.png"
 	        stack="1">
 	<spritesheets>
 		<spritesheet texture="m-leather-1222211-80x90.png"

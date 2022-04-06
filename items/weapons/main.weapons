@@ -14,4 +14,19 @@
       </effects>
     </damage>
   </weapon>
+  <weapon id="itemAshbringer1"
+	  value="10000"
+	  level="10">
+    <slots>
+      <slot id="itSlotHand"/>
+      <slot id="itSlotHand"/>
+    </slots>
+    <damage type="elementFire"
+	    min="50"
+	    max="100">
+      <effects>
+	<effect id="effBurn1"/>
+      </effects>
+    </damage>
+  </weapon>
 </weapons>
