@@ -46,6 +46,8 @@
       </target>
       <reqs>
 	<target-range-req min-range="200"/>
+	<mana-req value="10"
+		  charge="true"/>
       </reqs>
     </use>
   </skill>
