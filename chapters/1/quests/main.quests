@@ -146,7 +146,7 @@
       </objectives>
       <on-complete>
 	<flags>
-	  <flag id="questBountyOnGarrickPadfoot1_gathered"/>
+	  <flag id="flagBountyOnGarrickPadfoot1_gathered"/>
 	</flags>
       </on-complete>
     </stage>
@@ -156,13 +156,13 @@
       <objectives>
 	<objective>
 	  <reqs>
-	    <flag-req id="questBountyOnGarrickPadfoot1_talked"/>
+	    <flag-req id="flagBountyOnGarrickPadfoot1_talked"/>
 	  </reqs>
 	</objective>
       </objectives>
       <on-complete>
 	<flags>
-	  <flag id="questBountyOnGarrickPadfoot1_completed"/>
+	  <flag id="flagBountyOnGarrickPadfoot1_completed"/>
 	</flags>
       </on-complete>
     </stage>
