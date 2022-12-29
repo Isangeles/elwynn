@@ -234,12 +234,10 @@
 	<flag id="igniteNpc"/>
       </flags>
     </character>
+    <character id="northshireAbbeyEnter1"
+	       init-x="1094"
+	       init-y="950"/>
   </characters>
-  <objects>
-    <object id="northshireAbbeyEnter1"
-	    x="1094"
-	    y="950"/>
-  </objects>
   <subareas>
     <area id="northshireAbbey1"
 	  time="8:00AM">
@@ -251,12 +249,10 @@
 	    <flag id="igniteNpc"/>
 	  </flags>
 	</character>
+	<character id="northshireAbbeyExit1"
+		   init-x="486"
+		   init-y="48"/>
       </characters>
-      <objects>
-	<object id="northshireAbbeyExit1"
-		x="486"
-		y="48"/>
-      </objects>
     </area>
   </subareas>
 </area>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<objects>
-  <object id="northshireAbbeyEnter1"
-	  max-hp="1">
+<characters>
+  <character id="northshireAbbeyEnter1"
+	     max-hp="1">
     <action>
       <user>
 	<modifiers>
@@ -11,9 +11,9 @@
 	</modifiers>
       </user>
     </action>
-  </object>
-  <object id="northshireAbbeyExit1"
-	  max-hp="1">
+  </character>
+  <character id="northshireAbbeyExit1"
+	     max-hp="1">
     <action>
       <user>
 	<modifiers>
@@ -23,5 +23,5 @@
 	</modifiers>
       </user>
     </action>
-  </object>
-</objects>
+  </character>
+</characters>
