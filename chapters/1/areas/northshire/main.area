@@ -249,6 +249,13 @@
 	    <flag id="igniteNpc"/>
 	  </flags>
 	</character>
+	<character id="charKheldenBremen1"
+		   init-x="86"
+		   init-y="911">
+	  <flags>
+	    <flag id="igniteNpc"/>
+	  </flags>
+	</character>
 	<character id="northshireAbbeyExit1"
 		   init-x="486"
 		   init-y="48"/>

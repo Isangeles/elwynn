@@ -152,6 +152,29 @@
       <dialog id="diaEaganPeltskinner1"/>
     </dialogs>
   </character>
+  <character id="charKheldenBremen1"
+	level="5"
+	gender="genderMale"
+	race="raceHuman"
+	attitude="attFriendly"
+	alignment="aliLawfulGood">
+    <attributes strenght="2"
+		constitution="2"
+		dexterity="3"
+		inteligence="5"
+		wisdom="4"/>
+    <trainings>
+      <training id="trainFireball1">
+	<reqs>
+	  <currency-req amount="10"
+		        charge="true"/>
+	</reqs>
+      </training>
+    </trainings>
+    <dialogs>
+      <dialog id="diaKheldenBremen1"/>
+    </dialogs>
+  </character>
   <character id="charGarrickPadfoot1"
 	level="5"
 	gender="genderMale"

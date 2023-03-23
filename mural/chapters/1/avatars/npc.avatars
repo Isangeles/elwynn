@@ -36,4 +36,8 @@
 	  portrait="male01.png"
 	  head="m-head-black-1222211-80x90.png"
 	  torso="m-cloth-1222211-80x90.png"/>
+  <avatar id="charKheldenBremen1"
+	  portrait="male01.png"
+	  head="m-head-black-1222211-80x90.png"
+	  torso="m-cloth-1222211-80x90.png"/>
 </avatars>

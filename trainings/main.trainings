@@ -9,4 +9,13 @@
       </user>
     </use>
   </training>
+  <training id="trainFireball1">
+    <use>
+      <user>
+	<modifiers>
+	  <add-skill-mod skill-id="skillFireball1"/>
+	</modifiers>
+      </user>
+    </use>
+  </training>
 </trainings>

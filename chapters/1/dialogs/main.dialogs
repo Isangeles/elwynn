@@ -44,4 +44,15 @@
 	      end="true"/>
     </stage>
   </dialog>
+  <dialog id="diaKheldenBremen1">
+    <stage id="welcome1"
+	   ordinal="1"
+	   start="true">
+      <answer id="train1"
+	      train="true">
+      </answer>
+      <answer id="bye1"
+	      end="true"/>
+    </stage>
+  </dialog>
 </dialogs>
