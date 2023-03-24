@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <characters>
   <character id="charKoboldVermin1"
-	level="18"
+	level="1"
 	gender="genderMale"
 	race="raceKobold"
 	attitude="attNeutral"
 	alignment="aliChaoticEvil">
-    <attributes strenght="2"
+    <attributes strenght="1"
 		constitution="1"
-		dexterity="3"
+		dexterity="1"
 		inteligence="1"
 		wisdom="1"/>
   </character>
