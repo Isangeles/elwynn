@@ -11,5 +11,10 @@
 		dexterity="1"
 		inteligence="1"
 		wisdom="1"/>
+    <inventory>
+      <item id="itemCopperCoin1"
+	    amount="10"
+	    loot="true"/>
+    </inventory>
   </character>
 </characters>
