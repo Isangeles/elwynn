@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<hud name="default.xml">
+    <players>
+        <player>
+            <id>*</id>
+            <bar>
+              <slot id="0"
+		    content="skillMelee1"/>
+            </bar>
+        </player>
+    </players>
+    <camera x="200"
+	    y="280"/>
+</hud>
