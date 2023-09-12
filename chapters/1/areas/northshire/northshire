@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="100" height="80" tilewidth="32" tileheight="32" infinite="0" nextlayerid="6" nextobjectid="1">
+ <tileset firstgid="1" name="groundtiles1" tilewidth="32" tileheight="32" tilecount="399" columns="19">
+  <image source="tilesets/groundtiles1.png" width="608" height="672"/>
+ </tileset>
+ <tileset firstgid="400" name="fomeFlora" tilewidth="32" tileheight="32" tilecount="240" columns="20">
+  <image source="tilesets/fomeFlora.png" width="640" height="400"/>
+ </tileset>
+ <tileset firstgid="640" name="f808ef0cc20c9ea53f6e7a1b5710c5ee" tilewidth="32" tileheight="32" tilecount="63" columns="9">
+  <image source="tilesets/f808ef0cc20c9ea53f6e7a1b5710c5ee.png" width="300" height="253"/>
+ </tileset>
+ <tileset firstgid="703" name="1" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="tilesets/1.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="719" name="2" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="tilesets/2.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="735" name="watertileset3qb2tg0" tilewidth="32" tileheight="32" tilecount="120" columns="12">
+  <image source="tilesets/watertileset3qb2tg0.png" width="410" height="331"/>
+ </tileset>
+ <layer id="1" name="ground" width="100" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt2lFqwlAQBdCIO9HuQG23ULsX9/+rQR4MD00LVWbIOx/nKyKTXO68IB4303QEAAAAAAAAAAAAAAAAAAAAAAAA+Kfdzf4X2TOO5HTz+QdfCzl+FLiPtejzmJ/7OXiWx2nhGq/N4zLdPXrmsRft2k+B+1iTvgvx7Ih57J7klz3/Gn0/yKXX5zN/VjfebykTvcgXe6MTNbRdpRf5vNvWEd+p5izsqly6UYtu1NHvqux5RmdX1WJX1WJX1eHsqMXZUUfMwu9V+VoecsgXu5E9C87wauRRQ/ufgneqGrxT1RG7cS4wz8j6PZU9z+j6PZU9z+haHrIgw2H7+u+8Ajr0ejE=
+  </data>
+ </layer>
+ <layer id="5" name="water" width="100" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt3bFKQ0EQheFL0qmgXYRthS0Vor0+gIrv/wxq4QPEDXhhWCwkzfmR/4Mt0gWGM7N374YsiySd5nK7LA8/62Kb/jZqpR7X1iOul3rcWI+4Zr9C6fYrlP2owb39CmXtWYfN+GBN4taede4MQWilHs6QvJoPZ0hes1+hdPsVSrNfoaz5uB3rznpEHc93r3w+x6jnV/aqvHp+5d4qz/cfLL7/YHF+sDg/WJwfLM4PjvosaL/Kq73KfpXXp3rYr7LmfNivsuZ82K+y5nzYr7LmfNivstxfsbi/Ypnz4f3ErDkfO2dI1P6XejhDsur99p0zBKHZr1CeRw1exnod6816SJL+6H08B36M9TnW1yb9bVT3Vz6j5/VSD/e8eW2qhxnJms+xzsxIVD0zWevhOVZWrYn5YGjmA6WbD5Saj4PPhnF9munue7PmfZZ3gPK8A8TiHTkW88FiPljMB4v5YDEfLOaDxXywmA8W88FiPljMB4v5YDEfLOaDxXyw+BtoFvsVy/wO3X6V9zhq8GS/QmnmA2WdI97BYljniP+Z8799A5b7Qxs=
+  </data>
+ </layer>
+ <layer id="4" name="blockground" width="100" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt2LtOQkEYReE52mKprZTSYqmtduoDKIIvr+K9BUXYJP6PgGcV60t2MyUnzErmsbX2lD1n8+wle83esnfPd36+PfvIPrOvbJEts+/sJ1tlv9k6a53nuz7fnnXZXrafDbKDrqln9T3q/6F+HeZbHPn/wDjJNxhlx9nQ79G7s3yD82ycnfo9emc/WOwHi/1gsR8s9oPFfrDYDxb7wWI/WOwHi/1gsR8s9oPFfrDYDxb7wWI/WOwHi/1gsR8s9oPFfrDYDxb7wWI/WOwHi/1gsR8s9oPFfrDYDxb7wWI/WOwHi/1gsR8s9oPFfrDYDxb7wWI/WOwHi/1gsR8s9oPFfrDYDxb7wWI/WOwHi/1gsR8s9oPFfrDYDxb7wVL3lf1gqPvKfjDUfWU/GOq+sh8MdV/ZD4a6r+wHQ91X9oOh7iv7wVD3lf1g8P2KxfcrFt+vWHy/YvH9isX3Kxb7wXGV3/86u8kussvsNrvLJtl9Ns1mnv/b+cPfNlC1GWw=
+  </data>
+ </layer>
+ <layer id="3" name="flora" width="100" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt2DsKgEAMBNCwt1HPoFsJ2+r9D2MstxJs/PAeTB8Y0kwEAAAAAAAAfMNQIsbMVJ6+hNOcPSyZqo9X2LKHXRcAAADAz7Wb+8dqN4GOnwAAAAAAAAAAAAAAAAAAAAAAAODKAWCwAsQ=
+  </data>
+ </layer>
+ <layer id="2" name="buildings" width="100" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt0UlLQgEYhWHxt7dsWJW2aLTSLMsGKLVl0mC1Spr7LZ2FgQtbiVyI54EXL5e7kPOVSgAAAAAAAAAAAAAAAAAAAAAA/8Ncueh/wK/53GIhLaYldynccm6wkiqpmlbdpDBr2X49baTNtJW2U81NZuo6+/bHNt7J827aS/XUSPupmQ7SoXvMzE22vU136X60cyu/R+k4tdNJOk1n6dwtpvacDYd/7DjI+4f0mJ7GvrnI82XqpG7qpSu3mNpLNnxNb+l9tOe3XQvzke0/01fZHQAAAAAAAAAAAABgkh/eeiuF
+  </data>
+ </layer>
+</map>
