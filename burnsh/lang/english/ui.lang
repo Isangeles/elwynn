@@ -5,6 +5,13 @@ talk_answers:Answers
 talk_answers_select:Select answer
 target_near_targets:Near targets
 target_select_target:Select target
+area_name:Name
+area_time:Time
+area_weather:Weather
+ob_name:Name
+ob_health:Health
+ob_mana:Mana
+ob_pos:Position
 quests_list:Quests
 quests_q_completed:Completed
 useskill_skills:Skills
@@ -17,6 +24,7 @@ crafting_result:Result
 crafting_amount:Amount
 crafting_reqs:Requirements
 crafting_make:Make
+chat_info:Use close command to close the chat
 trade_buy_items:Items to buy
 trade_sell_items:Items to sell
 trade_select_items:Select items
@@ -32,10 +40,18 @@ train_no_trainings:No trainings
 train_no_train_sel:No training selected
 train_reqs:Train requirements
 train_attrs_training:Attributes
+inventory_items:Items
+equip_items:Items
+equip_select:Select item to equip or unequip
+equip_error:Unable to equip item
+equip_no_free_slot_error:Free slot not found
+equip_no_valid_slot_error:No compatible slots
 reqs_not_meet:Requirements not meet
 talk_no_answer_id_err:Enter valid answer ID
 move_enter_x_position:Enter position X
 move_enter_y_position:Enter position Y
+movetar_info:Moving to position
+char_info:Type $close to exit the chat
 dialog_back:Back
 dialog_cancel:Cancel
 req_unknown:Unknown
@@ -49,7 +65,9 @@ invalid_input_err:Invalid input value
 nan_err:NaN
 no_game_err:No game loaded
 no_pc_err:No active player
+no_pc_area_err:Area for active player not found
 no_tar_err:No target
+out_of_range_err:Target it out of range
 loadgame_saves:Saves
 loadgame_select_save:Select save
 savegame_save_name:Enter save name
