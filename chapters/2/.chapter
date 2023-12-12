@@ -1,0 +1,7 @@
+# Configuration file for the chapter 2.
+start-area:goldshire
+start-pos:1160;821
+start-items:itemIronSword1
+start-skills:skillMelee1
+start-attrs:10
+start-level:1

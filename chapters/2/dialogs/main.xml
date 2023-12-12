@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<dialogs>
+  <dialog id="diaJanosHammerknuckle1">
+    <stage id="welcome1"
+	   ordinal="1"
+	   start="true">
+      <answer id="trade1"
+	      trade="true">
+      </answer>
+      <answer id="bye1"
+	      end="true"/>
+    </stage>
+  </dialog>
+  <dialog id="diaBrotherDanil1">
+    <stage id="welcome1"
+	   ordinal="1"
+	   start="true">
+      <answer id="trade1"
+	      trade="true">
+      </answer>
+      <answer id="bye1"
+	      end="true"/>
+    </stage>
+  </dialog>
+  <dialog id="diaDermontJohns1">
+    <stage id="welcome1"
+	   ordinal="1"
+	   start="true">
+      <answer id="trade1"
+	      trade="true">
+      </answer>
+      <answer id="bye1"
+	      end="true"/>
+    </stage>
+  </dialog>
+  <dialog id="diaGodricRothgar1">
+    <stage id="welcome1"
+	   ordinal="1"
+	   start="true">
+      <answer id="trade1"
+	      trade="true">
+      </answer>
+      <answer id="bye1"
+	      end="true"/>
+    </stage>
+  </dialog>
+  <dialog id="diaKheldenBremen1">
+    <stage id="welcome1"
+	   ordinal="1"
+	   start="true">
+      <answer id="train1"
+	      train="true">
+      </answer>
+      <answer id="bye1"
+	      end="true"/>
+    </stage>
+  </dialog>
+</dialogs>
