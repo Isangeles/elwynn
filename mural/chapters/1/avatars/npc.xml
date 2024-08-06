@@ -3,15 +3,30 @@
   <avatar id="charDepWillem1"
 	  portrait="male01.png"
 	  head="m-head-black-1222211-80x90.png"
-	  torso="m-cloth-1222211-80x90.png"/>
+	  torso="m-cloth-1222211-80x90.png">
+    <greetings>
+      <greeting id="greetingHumanMale1.ogg"/>
+      <greeting id="greetingHumanMale2.ogg"/>
+    </greetings>
+  </avatar>
   <avatar id="charMarshalMcBride1"
 	  portrait="male01.png"
 	  head="m-head-black-1222211-80x90.png"
-	  torso="m-cloth-1222211-80x90.png"/>
+	  torso="m-cloth-1222211-80x90.png">
+    <greetings>
+      <greeting id="greetingHumanMale1.ogg"/>
+      <greeting id="greetingHumanMale2.ogg"/>
+    </greetings>
+  </avatar>
   <avatar id="charJanosHammerknuckle1"
 	  portrait="male01.png"
 	  head="m-head-black-1222211-80x90.png"
-	  torso="m-cloth-1222211-80x90.png"/>
+	  torso="m-cloth-1222211-80x90.png">
+    <greetings>
+      <greeting id="greetingHumanMale1.ogg"/>
+      <greeting id="greetingHumanMale2.ogg"/>
+    </greetings>
+  </avatar>
   <avatar id="charMerissaStilwell1"
 	  portrait="female01.png"
 	  head="f-head-black-1222211-80x90.png"
@@ -19,25 +34,55 @@
   <avatar id="charBrotherDanil1"
 	  portrait="male01.png"
 	  head="m-head-black-1222211-80x90.png"
-	  torso="m-cloth-1222211-80x90.png"/>
+	  torso="m-cloth-1222211-80x90.png">
+    <greetings>
+      <greeting id="greetingHumanMale1.ogg"/>
+      <greeting id="greetingHumanMale2.ogg"/>
+    </greetings>
+  </avatar>
   <avatar id="charDermontJohns1"
 	  portrait="male01.png"
 	  head="m-head-black-1222211-80x90.png"
-	  torso="m-cloth-1222211-80x90.png"/>
+	  torso="m-cloth-1222211-80x90.png">
+    <greetings>
+      <greeting id="greetingHumanMale1.ogg"/>
+      <greeting id="greetingHumanMale2.ogg"/>
+    </greetings>
+  </avatar>
   <avatar id="charGodricRothgar1"
 	  portrait="male01.png"
 	  head="m-head-black-1222211-80x90.png"
-	  torso="m-cloth-1222211-80x90.png"/>
+	  torso="m-cloth-1222211-80x90.png">
+    <greetings>
+      <greeting id="greetingHumanMale1.ogg"/>
+      <greeting id="greetingHumanMale2.ogg"/>
+    </greetings>
+  </avatar>
   <avatar id="charEaganPeltskinner1"
 	  portrait="male01.png"
 	  head="m-head-black-1222211-80x90.png"
-	  torso="m-cloth-1222211-80x90.png"/>
+	  torso="m-cloth-1222211-80x90.png">
+    <greetings>
+      <greeting id="greetingHumanMale1.ogg"/>
+      <greeting id="greetingHumanMale2.ogg"/>
+    </greetings>
+  </avatar>
   <avatar id="charGarrickPadfoot1"
 	  portrait="male01.png"
 	  head="m-head-black-1222211-80x90.png"
-	  torso="m-cloth-1222211-80x90.png"/>
+	  torso="m-cloth-1222211-80x90.png">
+    <greetings>
+      <greeting id="greetingHumanMale1.ogg"/>
+      <greeting id="greetingHumanMale2.ogg"/>
+    </greetings>
+  </avatar>
   <avatar id="charKheldenBremen1"
 	  portrait="male01.png"
 	  head="m-head-black-1222211-80x90.png"
-	  torso="m-cloth-1222211-80x90.png"/>
+	  torso="m-cloth-1222211-80x90.png">
+    <greetings>
+      <greeting id="greetingHumanMale1.ogg"/>
+      <greeting id="greetingHumanMale2.ogg"/>
+    </greetings>
+  </avatar>
 </avatars>
