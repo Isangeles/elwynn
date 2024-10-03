@@ -1,0 +1,26 @@
+{
+    "armors": [
+        {
+            "id": "itemLeatherArmor1",
+            "value": 100,
+            "level": 2,
+            "armor": 10,
+            "slots": [
+                {
+                    "id": "itSlotChest"
+                }
+            ]
+        },
+        {
+            "id": "itemSteelArmor1",
+            "value": 1000,
+            "level": 3,
+            "armor": 100,
+            "slots": [
+                {
+                    "id": "itSlotChest"
+                }
+            ]
+        }
+    ]
+}

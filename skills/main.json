@@ -1,0 +1,108 @@
+{
+    "skills": [
+        {
+            "id": "skillMelee1",
+            "use": {
+                "target-effects": [
+                    {
+                        "id": "effHit1"
+                    }
+                ],
+                "reqs": {
+                    "target-range-reqs": [
+                        {
+                            "min-range": 50
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "skillDimMak1",
+	    "use": {
+                "target-effects": [
+                    {
+                        "id": "effDimMak1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "skillHeal1"
+        },
+        {
+            "id": "skillFireball1",
+            "use": {
+                "cast-max": 3000,
+                "cooldown-max": 5000,
+                "target-effects": [
+                    {
+                        "id": "effFireHit1"
+                    },
+                    {
+                        "id": "effBurn1"
+                    }
+                ],
+                "reqs": {
+                    "target-range-reqs": [
+                        {
+                            "min-range": 200
+                        }
+                    ],
+                    "mana-reqs": [
+                        {
+                            "value": 10,
+                            "charge": true
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "skillHpReg1",
+            "passive": {
+                "reqs": {
+                    "health-percent-reqs": [
+                        {
+                            "value": 100,
+                            "less": true
+                        }
+                    ],
+                    "combat-reqs": [
+                        {
+                            "combat": false
+                        }
+                    ]
+                },
+                "passive-effects": [
+                    {
+                        "id": "effHpReg1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "skillManaReg1",
+            "passive": {
+                "reqs": {
+                    "mana-percent-reqs": [
+                        {
+                            "value": 100,
+                            "less": true
+                        }
+                    ],
+                    "combat-reqs": [
+                        {
+                            "combat": false
+                        }
+                    ]
+                },
+                "passive-effects": [
+                    {
+                        "id": "effManaReg1"
+                    }
+                ]
+            }
+        }
+    ]
+}

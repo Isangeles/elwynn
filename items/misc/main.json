@@ -1,0 +1,84 @@
+{
+    "miscs": [
+        {
+            "id": "itemAloeLeaves1",
+            "value": 5,
+            "level": 1,
+            "consumable": true,
+            "use": {
+                "user-effects": [
+                    {
+                        "id": "effHeal1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "itemHealingKit1",
+            "value": 5,
+            "level": 1,
+            "consumable": true,
+            "use": {
+                "cast-max": 3000,
+                "target-user-effects": [
+                    {
+                        "id": "effHeal1"
+                    }
+                ],
+                "reqs": {
+                    "target-range-reqs": [
+                        {
+                            "min-range": 50
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "itemWater1",
+            "value": 1,
+            "level": 1
+        },
+        {
+            "id": "itemAloeTea1",
+            "value": 10,
+            "level": 1,
+            "consumable": true,
+            "use": {
+                "user-effects": [
+                    {
+                        "id": "effHeal2"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "itemToughWolfMeat1",
+            "value": 1,
+            "level": 1
+        },
+        {
+            "id": "itemGoldCoin1",
+            "value": 100,
+            "currency": true
+        },
+        {
+            "id": "itemSilverCoin1",
+            "value": 50,
+            "currency": true
+        },
+        {
+            "id": "itemCopperCoin1",
+            "value": 1,
+            "currency": true
+        },
+        {
+            "id": "itemRedBurlapBandana1",
+            "value": 1
+        },
+        {
+            "id": "itemGarricksHead1",
+            "value": 1
+        }
+    ]
+}

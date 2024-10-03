@@ -1,0 +1,31 @@
+{
+    "recipes": [
+        {
+            "id": "rAloeTea1",
+            "category": "cooking",
+            "use": {
+                "cast-max": 2000,
+                "user-mods": {
+                    "add-item-mods": [
+                        {
+                            "item-id": "itemAloeTea1",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "reqs": {
+                    "item-reqs": [
+                        {
+                            "id": "itemAloeLeaves1",
+                            "amount": 2
+                        },
+                        {
+                            "id": "itemWater1",
+                            "amount": 1
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

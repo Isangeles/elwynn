@@ -1,0 +1,32 @@
+{
+    "trainings": [
+        {
+            "id": "trainAttrStr1",
+            "use": {
+                "user-mods": {
+                    "attribute-mods": [
+                        {
+                            "str": 1,
+                            "con": 0,
+                            "dex": 0,
+                            "int": 0,
+                            "wis": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "trainFireball1",
+            "use": {
+                "user-mods": {
+                    "add-skill-mods": [
+                        {
+                            "skill-id": "skillFireball1"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "races": [
+        {
+            "id": "raceHuman",
+            "playable": true,
+            "skills": [
+                {
+                    "id": "skillMelee1"
+                },
+                {
+                    "id": "skillHpReg1"
+                },
+                {
+                    "id": "skillManaReg1"
+                }
+            ]
+        },
+        {
+            "id": "raceNightElf",
+            "playable": true,
+            "skills": [
+                {
+                    "id": "skillMelee1"
+                },
+                {
+                    "id": "skillHpReg1"
+                },
+                {
+                    "id": "skillManaReg1"
+                }
+            ]
+        },
+        {
+            "id": "raceDwarf",
+            "playable": true,
+            "skills": [
+                {
+                    "id": "skillMelee1"
+                },
+                {
+                    "id": "skillHpReg1"
+                },
+                {
+                    "id": "skillManaReg1"
+                }
+            ]
+        },
+        {
+            "id": "raceGnome",
+            "playable": true,
+            "skills": [
+                {
+                    "id": "skillMelee1"
+                },
+                {
+                    "id": "skillHpReg1"
+                },
+                {
+                    "id": "skillManaReg1"
+                }
+            ]
+        },
+        {
+            "id": "raceKobold",
+            "skills": [
+                {
+                    "id": "skillMelee1"
+                },
+                {
+                    "id": "skillHpReg1"
+                },
+                {
+                    "id": "skillManaReg1"
+                }
+            ]
+        },
+        {
+            "id": "raceWolf",
+            "skills": [
+                {
+                    "id": "skillMelee1"
+                },
+                {
+                    "id": "skillHpReg1"
+                },
+                {
+                    "id": "skillManaReg1"
+                }
+            ]
+        }
+    ]
+}

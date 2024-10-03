@@ -1,0 +1,26 @@
+{
+    "characters": [
+        {
+            "id": "charYoungWolf1",
+            "level": 1,
+            "sex": "genderMale",
+            "race": "raceWolf",
+            "attitude": "attNeutral",
+            "alignment": "aliTrueNeutral",
+            "attributes": {
+                "str": 0,
+                "con": 2,
+                "dex": 3,
+                "int": 1,
+                "wis": 1
+            },
+            "inventory": {
+                "items": [
+                    {
+                        "id": "itemToughWolfMeat1"
+                    }
+                ]
+            }
+        }
+    ]
+}

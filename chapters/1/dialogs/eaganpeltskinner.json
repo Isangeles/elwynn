@@ -1,0 +1,137 @@
+{
+    "dialogs": [
+        {
+            "id": "diaEaganPeltskinner1",
+            "sages": [
+                {
+                    "id": "welcome1",
+                    "ordinal": "1",
+                    "start": true,
+                    "answers": [
+                        {
+                            "id": "diaEaganPeltskinner1_s1_1_a1",
+                            "to": "2",
+                            "reqs": {
+                                "quest-reqs": [
+                                    {
+                                        "id": "questEaganPeltskinner1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "diaEaganPeltskinner1_s1_1_a2",
+                            "to": "3",
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagEaganPeltskinner1_talked"
+                                    },
+                                    {
+                                        "id": "flagWolvesAcrossBorder1_started"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "diaEaganPeltskinner1_s1_1_a3",
+                            "to": "5",
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagWolvesAcrossBorder1_gathered"
+                                    }
+                                ],
+                                "quest-reqs": [
+                                    {
+                                        "id": "questWolvesAcrossBorder1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "bye1",
+                            "end": true
+                        }
+                    ]
+                },
+                {
+                    "id": "diaEaganPeltskinner1_s2_1",
+                    "ordinal": "2",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "1"
+                        }
+                    ],
+                    "target-mods": {
+                        "flag-mods": [
+                            {
+                                "id": "flagEaganPeltskinner1_talked"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "diaEaganPeltskinner1_s3_1",
+                    "ordinal": "3",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "diaEaganPeltskinner1_s4_1",
+                    "ordinal": "4",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "1"
+                        }
+                    ],
+                    "target-mods": {
+                        "flag-mods": [
+                            {
+                                "id": "flagWolvesAcrossBorder1_started"
+                            }
+                        ],
+                        "quest-mods": [
+                            {
+                                "id": "questWolvesAcrossBorder1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "diaEaganPeltskinner1_s5_1",
+                    "ordinal": "5",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "6"
+                        }
+                    ]
+                },
+                {
+                    "id": "diaEaganPeltskinner1_s6_1",
+                    "ordinal": "6",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "1"
+                        }
+                    ],
+                    "target-mods": {
+                        "flag-mods": [
+                            {
+                                "id": "flagWolvesAcrossBorder1_talked"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

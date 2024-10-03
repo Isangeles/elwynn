@@ -1,0 +1,328 @@
+{
+    "dialogs": [
+        {
+            "id": "diaDepWillem1",
+            "sages": [
+                {
+                    "id": "diaDepWillem1_s1_1",
+                    "ordinal": "1",
+                    "start": true,
+                    "answers": [
+                        {
+                            "id": "diaDepWillem1_s1_1_a1",
+                            "to": "2",
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagAThreatWithin1_start",
+                                        "off": true
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "diaDepWillem1_s1_1_a2",
+                            "to": "5",
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagAThreatWithin1_completed"
+                                    },
+                                    {
+                                        "id": "flagEaganPeltskinner1_start",
+                                        "off": true
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "diaDepWillem1_s1_1_a3",
+                            "to": "7",
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagAThreatWithin1_completed"
+                                    },
+                                    {
+                                        "id": "flagBrotherhoodOfThieves1_started",
+                                        "off": true
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "diaDepWillem1_s1_1_a4",
+                            "to": "9",
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagBrotherhoodOfThieves1_started"
+                                    },
+                                    {
+                                        "id": "flagBrotherhoodOfThieves1_completed",
+                                        "off": true
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "diaDepWillem1_s1_1_a5",
+                            "to": "10",
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagBrotherhoodOfThieves1_completed"
+                                    },
+                                    {
+                                        "id": "flagBountyOnGarrickPadfoot1_started",
+                                        "off": true
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "diaDepWillem1_s1_1_a6",
+                            "to": "12",
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagBountyOnGarrickPadfoot1_started"
+                                    },
+                                    {
+                                        "id": "flagBountyOnGarrickPadfoot1_completed",
+                                        "off": true
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "bye1",
+                            "to": "",
+                            "end": true
+                        }
+                    ]
+                },
+                {
+                    "id": "diaDepWillem1_s2_1",
+                    "ordinal": "2",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "diaDepWillem1_s3_1",
+                    "ordinal": "3",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "diaDepWillem1_s4_1",
+                    "ordinal": "4",
+                    "answers": [
+                        {
+                            "id": "bye1",
+                            "end": true
+                        }
+                    ],
+                    "target-mods": {
+                        "flag-mods": [
+                            {
+                                "id": "flagAThreatWithin1_start"
+                            }
+                        ],
+                        "quest-mods": [
+                            {
+                                "id": "questAThreatWithin1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "diaDepWillem1_s5_1",
+                    "ordinal": "5",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "6"
+                        }
+                    ]
+                },
+                {
+                    "id": "diaDepWillem1_s6_1",
+                    "ordinal": "6",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "1"
+                        }
+                    ],
+                    "target-mods": {
+                        "flag-mods": [
+                            {
+                                "id": "flagEaganPeltskinner1_start"
+                            }
+                        ],
+                        "quest-mods": [
+                            {
+                                "id": "questEaganPeltskinner1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "diaDepWillem1_s7_1",
+                    "ordinal": "7",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "8"
+                        }
+                    ]
+                },
+                {
+                    "id": "diaDepWillem1_s8_1",
+                    "ordinal": "8",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "1"
+                        }
+                    ],
+                    "target-mods": {
+                        "flag-mods": [
+                            {
+                                "id": "flagBrotherhoodOfThieves1_started"
+                            }
+                        ],
+                        "quest-mods": [
+                            {
+                                "id": "questBrotherhoodOfThieves1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "diaDepWillem1_s9_1",
+                    "ordinal": "9",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "1"
+                        }
+                    ],
+                    "reqs": {
+                        "flag-reqs": [
+                            {
+                                "id": "flagBrotherhoodOfThieves1_gathered"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "diaDepWillem1_s9_2",
+                    "ordinal": "9",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "1"
+                        }
+                    ],
+                    "reqs": {
+                        "flag-reqs": [
+                            {
+                                "id": "flagBrotherhoodOfThieves1_gathered"
+                            }
+                        ]
+                    },
+                    "target-mods": {
+                        "flag-mods": [
+                            {
+                                "id": "flagBrotherhoodOfThieves1_talked"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "diaDepWillem1_s10_1",
+                    "ordinal": "10",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "11"
+                        }
+                    ]
+                },
+                {
+                    "id": "diaDepWillem1_s11_1",
+                    "ordinal": "11",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "1"
+                        }
+                    ],
+                    "target-mods": {
+                        "flag-mods": [
+                            {
+                                "id": "flagBountyOnGarrickPadfoot1_started"
+                            }
+                        ],
+                        "quest-mods": [
+                            {
+                                "id": "questBountyOnGarrickPadfoot1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "diaDepWillem1_s12_1",
+                    "ordinal": "12",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "1"
+                        }
+                    ],
+                    "reqs": {
+                        "flag-reqs": [
+                            {
+                                "id": "flagBountyOnGarrickPadfoot1_gathered"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "diaDepWillem1_s12_2",
+                    "ordinal": "12",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "1"
+                        }
+                    ],
+                    "reqs": {
+                        "flag-reqs": [
+                            {
+                                "id": "flagBountyOnGarrickPadfoot1_gathered"
+                            }
+                        ]
+                    },
+                    "target-mods": {
+                        "flag-mods": [
+                            {
+                                "id": "flagBountyOnGarrickPadfoot1_talked"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

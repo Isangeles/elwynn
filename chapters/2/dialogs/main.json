@@ -1,0 +1,104 @@
+{
+    "dialogs": [
+        {
+            "id": "diaJanosHammerknuckle1",
+            "sages": [
+                {
+                    "id": "welcome1",
+                    "ordinal": "1",
+                    "start": true,
+                    "answers": [
+                        {
+                            "id": "trade1",
+                            "trade": true
+                        },
+                        {
+                            "id": "bye1",
+                            "end": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "diaBrotherDanil1",
+            "sages": [
+                {
+                    "id": "welcome1",
+                    "ordinal": "1",
+                    "start": true,
+                    "answers": [
+                        {
+                            "id": "trade1",
+                            "trade": true
+                        },
+                        {
+                            "id": "bye1",
+                            "end": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "diaDermontJohns1",
+            "sages": [
+                {
+                    "id": "welcome1",
+                    "ordinal": "1",
+                    "start": true,
+                    "answers": [
+                        {
+                            "id": "trade1",
+                            "trade": true
+                        },
+                        {
+                            "id": "bye1",
+                            "end": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "diaGodricRothgar1",
+            "sages": [
+                {
+                    "id": "welcome1",
+                    "ordinal": "1",
+                    "start": true,
+                    "answers": [
+                        {
+                            "id": "trade1",
+                            "trade": true
+                        },
+                        {
+                            "id": "bye1",
+                            "end": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "diaKheldenBremen1",
+            "sages": [
+                {
+                    "id": "welcome1",
+                    "ordinal": "1",
+                    "start": true,
+                    "answers": [
+                        {
+                            "id": "train1",
+                            "training": true
+                        },
+                        {
+                            "id": "bye1",
+                            "end": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

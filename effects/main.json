@@ -1,0 +1,112 @@
+{
+    "effects": [
+        {
+            "id": "effHit1",
+            "melee-hit": true,
+            "modifiers": {
+                "health-mods": [
+                    {
+                        "min": -1,
+                        "max": -1
+                    }
+                ]
+            }
+        },
+        {
+            "id": "effBleed1",
+            "duration": 5000,
+            "modifiers": {
+                "health-mods": [
+                    {
+                        "min": -1,
+                        "max": -3
+                    }
+                ]
+            }
+        },
+        {
+            "id": "effHeal1",
+            "duration": 5000,
+            "modifiers": {
+                "health-mods": [
+                    {
+                        "min": 1,
+                        "max": 3
+                    }
+                ]
+            }
+        },
+        {
+            "id": "effHeal2",
+            "duration": 7000,
+            "modifiers": {
+                "health-mods": [
+                    {
+                        "min": 3,
+                        "max": 6
+                    }
+                ]
+            }
+        },
+        {
+            "id": "effFireHit1",
+            "duration": 0,
+            "modifiers": {
+                "health-mods": [
+                    {
+                        "min": -10,
+                        "max": -30
+                    }
+                ]
+            }
+        },
+        {
+            "id": "effBurn1",
+            "duration": 3000,
+            "modifiers": {
+                "health-mods": [
+                    {
+                        "min": -5,
+                        "max": -10
+                    }
+                ]
+            }
+        },
+        {
+            "id": "effHpReg1",
+            "duration": 1000,
+            "modifiers": {
+                "health-mods": [
+                    {
+                        "min": 1,
+                        "max": 1
+                    }
+                ]
+            }
+        },
+        {
+            "id": "effManaReg1",
+            "duration": 1000,
+            "modifiers": {
+                "mana-mods": [
+                    {
+                        "min": 1,
+                        "max": 1
+                    }
+                ]
+            }
+        },
+        {
+            "id": "effDimMak1",
+            "melee-hit": true,
+            "modifiers": {
+                "health-mods": [
+                    {
+                        "min": -1000,
+                        "max": -1000
+                    }
+                ]
+            }
+        }
+    ]
+}

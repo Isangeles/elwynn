@@ -1,0 +1,82 @@
+{
+    "characters": [
+        {
+            "id": "charDefiasThug1",
+            "level": 3,
+            "sex": "genderMale",
+            "race": "raceHuman",
+            "attitude": "attHostile",
+            "guild": "guildDefiasBh1",
+            "alignment": "aliNeutralEvil",
+            "attributes": {
+                "str": 0,
+                "con": 2,
+                "dex": 3,
+                "int": 2,
+                "wis": 1
+            },
+            "inventory": {
+                "items": [
+                    {
+                        "id": "itemIronSword1"
+                    },
+                    {
+                        "id": "itemCopperCoin1",
+                        "amount": 10
+                    },
+                    {
+                        "id": "itemRedBurlapBandana1",
+                        "amount": 1
+                    }
+                ]
+            },
+            "equipment": {
+                "items": [
+                    {
+                        "id": "itemIronSword1",
+                        "slot": "itSlotHand"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "charDefiasThug2",
+            "level": 4,
+            "sex": "genderFemale",
+            "race": "raceHuman",
+            "attitude": "attHostile",
+            "guild": "guildDefiasBh1",
+            "alignment": "aliNeutralEvil",
+            "attributes": {
+                "str": 0,
+                "con": 2,
+                "dex": 3,
+                "int": 2,
+                "wis": 1
+            },
+            "inventory": {
+                "items": [
+                    {
+                        "id": "itemIronSword1"
+                    },
+                    {
+                        "id": "itemCopperCoin1",
+                        "amount": 10
+                    },
+                    {
+                        "id": "itemRedBurlapBandana1",
+                        "amount": 1
+                    }
+                ]
+            },
+            "equipment": {
+                "items": [
+                    {
+                        "id": "itemIronSword1",
+                        "slot": "itSlotHand"
+                    }
+                ]
+            }
+        }
+    ]
+}

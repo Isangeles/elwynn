@@ -1,0 +1,240 @@
+{
+    "quests": [
+        {
+            "id": "questAThreatWithin1",
+            "stages": [
+                {
+                    "attr": "questAThreatWithin1_s1",
+                    "ordinal": 1,
+                    "start": true,
+                    "end": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagAThreatWithin1_talked"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "complete-flags": [
+                        {
+                            "id": "flagAThreatWithin1_completed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "questKoboldCampCleanup1",
+            "stages": [
+                {
+                    "attr": "questKoboldCampCleanup1_s1",
+                    "ordinal": 1,
+                    "next": "questKoboldCampCleanup1_s2",
+                    "start": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "kill-reqs": [
+                                    {
+                                        "id": "charKoboldVermin1",
+                                        "amount": 5
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "complete-flags": [
+                        {
+                            "id": "flagKoboldCampCleanup1_killed"
+                        }
+                    ]
+                },
+                {
+                    "attr": "questKoboldCampCleanup1_s2",
+                    "ordinal": 2,
+                    "end": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagKoboldCampCleanup1_talked"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "questEaganPeltskinner1",
+            "stages": [
+                {
+                    "attr": "questEaganPeltskinner1_s1",
+                    "ordinal": 1,
+                    "next": "",
+                    "start": true,
+                    "end": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagEaganPeltskinner1_talked"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "questWolvesAcrossBorder1",
+            "stages": [
+                {
+                    "attr": "questWolvesAcrossBorder1_s1",
+                    "ordinal": 1,
+                    "next": "questWolvesAcrossBorder1_s2",
+                    "start": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "item-reqs": [
+                                    {
+                                        "id": "itemToughWolfMeat1",
+                                        "amount": 3
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "complete-flags": [
+                        {
+                            "id": "flagWolvesAcrossBorder1_gathered"
+                        }
+                    ]
+                },
+                {
+                    "attr": "questWolvesAcrossBorder1_s2",
+                    "ordinal": 2,
+                    "end": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagWolvesAcrossBorder1_talked"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "questBrotherhoodOfThieves1",
+            "stages": [
+                {
+                    "attr": "questBrotherhoodOfThieves1_s1",
+                    "ordinal": 1,
+                    "next": "questBrotherhoodOfThieves1_s2",
+                    "start": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "item-reqs": [
+                                    {
+                                        "id": "itemRedBurlapBandana1",
+                                        "amount": 6
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "complete-flags": [
+                        {
+                            "id": "flagBrotherhoodOfThieves1_gathered"
+                        }
+                    ]
+                },
+                {
+                    "attr": "questBrotherhoodOfThieves1_s2",
+                    "ordinal": 2,
+                    "end": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagBrotherhoodOfThieves1_talked"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "complete-flags": [
+                        {
+                            "id": "flagBrotherhoodOfThieves1_completed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "questBountyOnGarrickPadfoot1",
+            "stages": [
+                {
+                    "attr": "questBountyOnGarrickPadfoot1_s1",
+                    "ordinal": 1,
+                    "next": "questBountyOnGarrickPadfoot1_s2",
+                    "start": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "item-reqs": [
+                                    {
+                                        "id": "itemGarricksHead1",
+                                        "amount": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "complete-flags": [
+                        {
+                            "id": "flagBountyOnGarrickPadfoot1_gathered"
+                        }
+                    ]
+                },
+                {
+                    "attr": "questBountyOnGarrickPadfoot1_s2",
+                    "ordinal": 2,
+                    "end": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagBountyOnGarrickPadfoot1_talked"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "complete-flags": [
+                        {
+                            "id": "flagBountyOnGarrickPadfoot1_completed"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "characters": [
+        {
+            "id": "aloe1",
+            "inventory": {
+                "items": [
+                    {
+                        "id": "itemAloeLeaves1"
+                    },
+                    {
+                        "id": "itemAloeLeaves1",
+                        "random": 10
+                    }
+                ]
+            }
+        }
+    ]
+}
