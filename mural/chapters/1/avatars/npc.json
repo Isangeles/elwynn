@@ -1,0 +1,136 @@
+{
+    "avatars": [
+        {
+            "id": "charDepWillem1",
+            "portrait": "male01.png",
+            "head": "m-head-black-1222211-80x90.png",
+            "torso": "m-cloth-1222211-80x90.png",
+            "greetings": [
+                {
+                    "id": "greetingHumanMale1.ogg"
+                },
+                {
+                    "id": "greetingHumanMale2.ogg"
+                }
+            ]
+        },
+        {
+            "id": "charMarshalMcBride1",
+            "portrait": "male01.png",
+            "head": "m-head-black-1222211-80x90.png",
+            "torso": "m-cloth-1222211-80x90.png",
+            "greetings": [
+                {
+                    "id": "greetingHumanMale1.ogg"
+                },
+                {
+                    "id": "greetingHumanMale2.ogg"
+                }
+            ]
+        },
+        {
+            "id": "charJanosHammerknuckle1",
+            "portrait": "male01.png",
+            "head": "m-head-black-1222211-80x90.png",
+            "torso": "m-cloth-1222211-80x90.png",
+            "greetings": [
+                {
+                    "id": "greetingHumanMale1.ogg"
+                },
+                {
+                    "id": "greetingHumanMale2.ogg"
+                }
+            ]
+        },
+        {
+            "id": "charMerissaStilwell1",
+            "portrait": "female01.png",
+            "head": "f-head-black-1222211-80x90.png",
+            "torso": "f-cloth-1222211-80x90.png"
+        },
+        {
+            "id": "charBrotherDanil1",
+            "portrait": "male01.png",
+            "head": "m-head-black-1222211-80x90.png",
+            "torso": "m-cloth-1222211-80x90.png",
+            "greetings": [
+                {
+                    "id": "greetingHumanMale1.ogg"
+                },
+                {
+                    "id": "greetingHumanMale2.ogg"
+                }
+            ]
+        },
+        {
+            "id": "charDermontJohns1",
+            "portrait": "male01.png",
+            "head": "m-head-black-1222211-80x90.png",
+            "torso": "m-cloth-1222211-80x90.png",
+            "greetings": [
+                {
+                    "id": "greetingHumanMale1.ogg"
+                },
+                {
+                    "id": "greetingHumanMale2.ogg"
+                }
+            ]
+        },
+        {
+            "id": "charGodricRothgar1",
+            "portrait": "male01.png",
+            "head": "m-head-black-1222211-80x90.png",
+            "torso": "m-cloth-1222211-80x90.png",
+            "greetings": [
+                {
+                    "id": "greetingHumanMale1.ogg"
+                },
+                {
+                    "id": "greetingHumanMale2.ogg"
+                }
+            ]
+        },
+        {
+            "id": "charEaganPeltskinner1",
+            "portrait": "male01.png",
+            "head": "m-head-black-1222211-80x90.png",
+            "torso": "m-cloth-1222211-80x90.png",
+            "greetings": [
+                {
+                    "id": "greetingHumanMale1.ogg"
+                },
+                {
+                    "id": "greetingHumanMale2.ogg"
+                }
+            ]
+        },
+        {
+            "id": "charGarrickPadfoot1",
+            "portrait": "male01.png",
+            "head": "m-head-black-1222211-80x90.png",
+            "torso": "m-cloth-1222211-80x90.png",
+            "greetings": [
+                {
+                    "id": "greetingHumanMale1.ogg"
+                },
+                {
+                    "id": "greetingHumanMale2.ogg"
+                }
+            ]
+        },
+        {
+            "id": "charKheldenBremen1",
+            "portrait": "male01.png",
+            "head": "m-head-black-1222211-80x90.png",
+            "torso": "m-cloth-1222211-80x90.png",
+            "greetings": [
+                {
+                    "id": "greetingHumanMale1.ogg"
+                },
+                {
+                    "id": "greetingHumanMale2.ogg"
+                }
+            ]
+        }
+    ]
+}
