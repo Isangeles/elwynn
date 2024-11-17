@@ -1,7 +1,7 @@
 {
     "id": "northshire",
     "time": "08:00AM",
-    "character": [
+    "characters": [
         {
             "id": "charDepWillem1",
             "init-pos-x": 1187,
@@ -332,7 +332,7 @@
         {
             "id": "northshireAbbey1",
             "time": "8:00AM",
-            "character": [
+            "characters": [
                 {
                     "id": "charMarshalMcBride1",
                     "init-pos-x": 486,
