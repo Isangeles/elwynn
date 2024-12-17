@@ -116,7 +116,7 @@
             },
             "dialogs": [
                 {
-                    "id": "diaJanosHammerknuckle1"
+                    "id": "diaTrade1"
                 }
             ]
         },
@@ -159,7 +159,7 @@
             },
             "dialogs": [
                 {
-                    "id": "diaBrotherDanil1"
+                    "id": "diaTrade1"
                 }
             ]
         },
@@ -187,7 +187,7 @@
             },
             "dialogs": [
                 {
-                    "id": "diaDermontJohns1"
+                    "id": "diaTrade1"
                 }
             ]
         },
@@ -215,7 +215,7 @@
             },
             "dialogs": [
                 {
-                    "id": "diaGodricRothgar1"
+                    "id": "diaTrade1"
                 }
             ]
         },
@@ -283,7 +283,7 @@
             ],
             "dialogs": [
                 {
-                    "id": "diaKheldenBremen1"
+                    "id": "diaTrain1"
                 }
             ]
         },
