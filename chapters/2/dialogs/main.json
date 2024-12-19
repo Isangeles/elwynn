@@ -2,7 +2,7 @@
     "dialogs": [
         {
             "id": "diaJanosHammerknuckle1",
-            "sages": [
+            "stages": [
                 {
                     "id": "welcome1",
                     "ordinal": "1",
@@ -22,7 +22,7 @@
         },
         {
             "id": "diaBrotherDanil1",
-            "sages": [
+            "stages": [
                 {
                     "id": "welcome1",
                     "ordinal": "1",
@@ -42,7 +42,7 @@
         },
         {
             "id": "diaDermontJohns1",
-            "sages": [
+            "stages": [
                 {
                     "id": "welcome1",
                     "ordinal": "1",
@@ -62,7 +62,7 @@
         },
         {
             "id": "diaGodricRothgar1",
-            "sages": [
+            "stages": [
                 {
                     "id": "welcome1",
                     "ordinal": "1",
@@ -82,7 +82,7 @@
         },
         {
             "id": "diaKheldenBremen1",
-            "sages": [
+            "stages": [
                 {
                     "id": "welcome1",
                     "ordinal": "1",

@@ -2,7 +2,7 @@
     "dialogs": [
         {
             "id": "diaTrade1",
-            "sages": [
+            "stages": [
                 {
                     "id": "welcome1",
                     "ordinal": "1",
@@ -22,7 +22,7 @@
         },
         {
             "id": "diaTrain1",
-            "sages": [
+            "stages": [
                 {
                     "id": "welcome1",
                     "ordinal": "1",

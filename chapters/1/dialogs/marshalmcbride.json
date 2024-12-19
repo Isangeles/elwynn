@@ -2,7 +2,7 @@
     "dialogs": [
         {
             "id": "diaMarshalMcBride1",
-            "sages": [
+            "stages": [
                 {
                     "id": "diaMarshalMcBride1_s1_1",
                     "ordinal": "1",

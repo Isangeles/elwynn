@@ -2,7 +2,7 @@
     "dialogs": [
         {
             "id": "diaEaganPeltskinner1",
-            "sages": [
+            "stages": [
                 {
                     "id": "welcome1",
                     "ordinal": "1",

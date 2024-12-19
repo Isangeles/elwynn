@@ -2,7 +2,7 @@
     "dialogs": [
         {
             "id": "diaDepWillem1",
-            "sages": [
+            "stages": [
                 {
                     "id": "diaDepWillem1_s1_1",
                     "ordinal": "1",
