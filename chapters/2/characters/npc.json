@@ -32,11 +32,15 @@
                 "items": [
                     {
                         "id": "itemSteelArmor1",
-                        "slot": "itSlotChest"
+                        "serial": "",
+                        "slot": "itSlotChest",
+                        "slot-id": 0
                     },
                     {
                         "id": "itemIronSword1",
-                        "slot": "itSlotHand"
+                        "serial": "",
+                        "slot": "itSlotHand",
+                        "slot-id": 0
                     }
                 ]
             },
@@ -112,7 +116,7 @@
             },
             "dialogs": [
                 {
-                    "id": "diaTrade1"
+                    "id": "diaJanosHammerknuckle1"
                 }
             ]
         },
@@ -155,7 +159,7 @@
             },
             "dialogs": [
                 {
-                    "id": "diaTrade1"
+                    "id": "diaBrotherDanil1"
                 }
             ]
         },
@@ -183,7 +187,7 @@
             },
             "dialogs": [
                 {
-                    "id": "diaTrade1"
+                    "id": "diaDermontJohns1"
                 }
             ]
         },
@@ -211,7 +215,7 @@
             },
             "dialogs": [
                 {
-                    "id": "diaTrade1"
+                    "id": "diaGodricRothgar1"
                 }
             ]
         },
@@ -279,7 +283,7 @@
             ],
             "dialogs": [
                 {
-                    "id": "diaTrain1"
+                    "id": "diaKheldenBremen1"
                 }
             ]
         },
@@ -318,34 +322,6 @@
                         "slot": "itSlotChest"
                     }
                 ]
-            }
-        },
-        {
-            "id": "northshireAbbeyEnter1",
-            "action": {
-                "user-mods": {
-                    "area-mods": [
-                        {
-                            "id": "northshireAbbey1",
-                            "enter-pos-x": 486,
-                            "enter-pos-y": 48
-                        }
-                    ]
-                }
-            }
-        },
-        {
-            "id": "northshireAbbeyExit1",
-            "action": {
-                "user-mods": {
-                    "area-mods": [
-                        {
-                            "id": "northshire",
-                            "enter-pos-x": 1094,
-                            "enter-pos-y": 950
-                        }
-                    ]
-                }
             }
         }
     ]
