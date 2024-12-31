@@ -1,0 +1,20 @@
+{
+    "dialogs": [
+        {
+            "id": "diaMillyOsworth1",
+            "stages": [
+                {
+                    "id": "welcome1",
+                    "ordinal": "1",
+                    "start": true,
+                    "answers": [
+                        {
+                            "id": "bye1",
+                            "end": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

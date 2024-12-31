@@ -254,6 +254,26 @@
                 }
             ]
         },
+	{
+            "id": "charMillyOsworth1",
+            "level": 2,
+            "sex": "genderFemale",
+            "race": "raceHuman",
+            "attitude": "attFriendly",
+            "alignment": "aliLawfulGood",
+            "attributes": {
+                "str": 2,
+                "con": 2,
+                "dex": 3,
+                "int": 2,
+                "wis": 4
+            },
+            "dialogs": [
+                {
+                    "id": "diaMillyOsworth1"
+                }
+            ]
+        },
         {
             "id": "charKheldenBremen1",
             "level": 5,

@@ -105,6 +105,12 @@
             ]
         },
         {
+            "id": "charMillyOsworth1",
+            "portrait": "female01.png",
+            "head": "f-head-black-1222211-80x90.png",
+            "torso": "f-cloth-1222211-80x90.png"
+        },
+        {
             "id": "charGarrickPadfoot1",
             "portrait": "male01.png",
             "head": "m-head-black-1222211-80x90.png",

@@ -81,6 +81,17 @@
             ]
         },
         {
+            "id": "charMillyOsworth1",
+            "init-pos-x": 1190,
+            "init-pos-y": 1190,
+            "respawn": 300000,
+            "flags": [
+                {
+                    "id": "igniteNpc"
+                }
+            ]
+        },
+        {
             "id": "charKoboldVermin1",
             "init-pos-x": 569,
             "init-pos-y": 1630,
