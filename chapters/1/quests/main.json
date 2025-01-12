@@ -235,6 +235,33 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "questMillyOsworth1",
+            "stages": [
+                {
+                    "id": "questMillyOsworth1_s1",
+                    "ordinal": 1,
+		    "end": true,
+                    "start": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagMillyOsworth1_talked"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "complete-flags": [
+                        {
+                            "id": "flagMillyOsworth1_completed"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

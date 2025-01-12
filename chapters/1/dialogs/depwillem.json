@@ -96,6 +96,21 @@
                             }
                         },
                         {
+                            "id": "diaDepWillem1_s1_1_a7",
+                            "to": "13",
+                            "reqs": {
+                                "flag-reqs": [
+                                    {
+                                        "id": "flagAThreatWithin1_completed"
+                                    },
+                                    {
+                                        "id": "flagMillyOsworth1_started",
+                                        "off": true
+                                    }
+                                ]
+                            }
+                        },
+                        {
                             "id": "bye1",
                             "to": "",
                             "end": true
@@ -318,6 +333,38 @@
                         "flag-mods": [
                             {
                                 "id": "flagBountyOnGarrickPadfoot1_talked"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "diaDepWillem1_s13_1",
+                    "ordinal": "13",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "14"
+                        }
+                    ]
+                },
+                {
+                    "id": "diaDepWillem1_s14_1",
+                    "ordinal": "14",
+                    "answers": [
+                        {
+                            "id": "more1",
+                            "to": "1"
+                        }
+                    ],
+                    "target-mods": {
+                        "flag-mods": [
+                            {
+                                "id": "flagMillyOsworth1_started"
+                            }
+                        ],
+                        "quest-mods": [
+                            {
+                                "id": "questMillyOsworth1"
                             }
                         ]
                     }

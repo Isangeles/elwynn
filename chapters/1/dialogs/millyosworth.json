@@ -11,9 +11,41 @@
                         {
                             "id": "bye1",
                             "end": true
-                        }
+                        },
+			{
+			    "id": "diaMillyOsworth1_s1_1_a1",
+			    "to": "2",
+			    "reqs": {
+				"flag-reqs": [
+				    {
+					"id": "flagMillyOsworth1_started"
+				    },
+				    {
+					"id": "flagMillyOsworth1_completed",
+					"off": true
+				    }
+				]
+			    }
+			}
                     ]
-                }
+                },
+		{
+		    "id": "diaMillyOsworth1_s2_1",
+		    "ordinal": "2",
+		    "answers": [
+			{
+			    "id": "more1",
+			    "to": "1"
+			}
+		    ],
+		    "target-mods": {
+			"flag-mods": [
+			    {
+				"id": "flagMillyOsworth1_talked"
+			    }
+			]
+		    }
+		}
             ]
         }
     ]
