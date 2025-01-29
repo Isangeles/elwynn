@@ -79,6 +79,9 @@
         {
             "id": "itemGarricksHead1",
             "value": 1
-        }
+        },
+	{
+	    "id": "itemMillysHarvest1"
+	}
     ]
 }

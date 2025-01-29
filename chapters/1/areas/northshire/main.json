@@ -334,6 +334,36 @@
             ]
         },
         {
+            "id": "obMillysHarvest1",
+            "init-pos-x": 2640,
+            "init-pos-y": 930,
+            "respawn": 100000
+        },
+        {
+            "id": "obMillysHarvest1",
+            "init-pos-x": 2980,
+            "init-pos-y": 920,
+            "respawn": 100000
+        },
+        {
+            "id": "obMillysHarvest1",
+            "init-pos-x": 2970,
+            "init-pos-y": 1120,
+            "respawn": 100000
+        },
+        {
+            "id": "obMillysHarvest1",
+            "init-pos-x": 2590,
+            "init-pos-y": 1360,
+            "respawn": 100000
+        },
+        {
+            "id": "obMillysHarvest1",
+            "init-pos-x": 2940,
+            "init-pos-y": 1670,
+            "respawn": 100000
+        },
+        {
             "id": "northshireAbbeyEnter1",
             "init-pos-x": 1094,
             "init-pos-y": 950

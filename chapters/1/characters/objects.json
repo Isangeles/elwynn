@@ -27,6 +27,16 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "obMillysHarvest1",
+	    "inventory": {
+		"items": [
+		    {
+			"id": "itemMillysHarvest1"
+		    }
+		]
+	    }
         }
     ]
 }
