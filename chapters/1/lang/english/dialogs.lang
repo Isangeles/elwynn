@@ -43,6 +43,11 @@ diaEaganPeltskinner1_s5_1:You've been busy! I can't wait to cook up that wolf me
 diaEaganPeltskinner1_s6_1:I have some things you might want - take your pick!
 diaMillyOsworth1_s1_1_a1:Milly Osworth
 diaMillyOsworth1_s2_1:Oh, Deputy Willem told you to speak with me?  He's a brave man and always willing to help, but his duties keep him stuck at Northshire Abbey and I'm afraid the problem I have today is beyond him. Perhaps you can help me?
+diaMillyOsworth1_s1_1_a2:Milly's Harvest
+diaMillyOsworth1_s3_1:A gang of brigands, the Defias, moved into the Northshire Vineyards while I was harvesting! I reported it to the Northshire guards and they assured me they'd take care of things, but... I'm afraid for my crop of grapes! If the Defias don't steal them then I fear our guards will trample them when they chase away the thugs.
+diaMillyOsworth1_s4_1:Please, you must help me! I gathered most of my grapes into buckets, but I left them in the vineyards to the southeast. Bring me those crates! Save my harvest!
+diaMillyOsworth1_s1_1_a3:Milly's Harvest
+diaMillyOsworth1_s5_1:Oh thank you, @targetName! You saved my harvest! And I hope you showed a few of those Defias that they can't cause trouble around here.\nWe might be short on guards these days, but we're lucky to have heroes like you to protect us!
 trade1:Show me your wares.
 train1:Train me.
 bye1:Bye.

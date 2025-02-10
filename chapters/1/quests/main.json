@@ -262,6 +262,60 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "questMillysHarvest1",
+            "stages": [
+                {
+                    "id": "questMillysHarvest1_s1",
+                    "ordinal": 1,
+		    "next": "questMillysHarvest1_s2",
+                    "start": true,
+                    "objectives": [
+                        {
+                            "reqs": {
+                                "item-reqs": [
+                                    {
+                                        "id": "itemMillysHarvest1",
+					"amount": 5
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+		    "start-flags": [
+			{
+			    "id": "flagMillysHarvest1_started"
+			}
+		    ],
+                    "complete-flags": [
+                        {
+                            "id": "flagMillysHarvest1_gathered"
+                        }
+                    ]
+                },
+		{
+		    "id": "questMillysHarvest1_s2",
+		    "ordinal": 2,
+		    "end": true,
+		    "objectives": [
+			{
+			    "reqs": {
+				"flag-reqs": [
+				    {
+					"id": "flagMillysHarvest1_talked"
+				    }
+				]
+			    }
+			}
+		    ],
+		    "complete-flags": [
+			{
+			    "id": "flagMillysHarvest1_completed"
+			}
+		    ]
+		}
+            ]
         }
     ]
 }

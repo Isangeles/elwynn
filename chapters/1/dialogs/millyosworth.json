@@ -26,6 +26,36 @@
 				    }
 				]
 			    }
+			},
+			{
+			    "id": "diaMillyOsworth1_s1_1_a2",
+			    "to": "3",
+			    "reqs": {
+				"flag-reqs": [
+				    {
+					"id": "flagMillyOsworth1_completed"
+				    },
+				    {
+					"id": "flagMillysHarvest1_started",
+					"off": true
+				    }
+				]
+			    }
+			},
+			{
+			    "id": "diaMillyOsworth1_s1_1_a3",
+			    "to": "5",
+			    "reqs": {
+				"flag-reqs": [
+				    {
+					"id": "flagMillysHarvest1_gathered"
+				    },
+				    {
+					"id": "flagMillysHarvest1_completed",
+					"off": true
+				    }
+				]
+			    }
 			}
                     ]
                 },
@@ -42,6 +72,62 @@
 			"flag-mods": [
 			    {
 				"id": "flagMillyOsworth1_talked"
+			    }
+			]
+		    }
+		},
+		{
+		    "id": "diaMillyOsworth1_s3_1",
+		    "ordinal": "3",
+		    "answers": [
+			{
+			    "id": "more1",
+			    "to": "4"
+			}
+		    ]
+		},
+		{
+		    "id": "diaMillyOsworth1_s4_1",
+		    "ordinal": "4",
+		    "answers": [
+			{
+			    "id": "more1",
+			    "to": "1"
+			},
+			{
+			    "id": "bye1",
+			    "end": true
+			}
+		    ],
+		    "target-mods": {
+			"quest-mods": [
+			    {
+				"id": "questMillysHarvest1"
+			    }
+			]
+		    }
+		},
+		{
+		    "id": "diaMillyOsworth1_s5_1",
+		    "ordinal": "5",
+		    "answers": [
+			{
+			    "id": "more1",
+			    "to": "1",
+			    "target-mods": {
+				"remove-item-mods": [
+				    {
+					"item-id": "itemMillysHarvest1",
+					"amount": 5
+				    }
+				]
+			    }
+			}
+		    ],
+		    "target-mods": {
+			"flag-mods": [
+			    {
+				"id": "flagMillysHarvest1_talked"
 			    }
 			]
 		    }
