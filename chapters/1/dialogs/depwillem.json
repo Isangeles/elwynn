@@ -319,7 +319,14 @@
                     "answers": [
                         {
                             "id": "more1",
-                            "to": "1"
+                            "to": "1",
+			    "target-mods": {
+				"remove-items-mods": [
+				    {
+					"item-id": "itemGarrickHead1"
+				    }
+				]
+			    }
                         }
                     ],
                     "reqs": {
