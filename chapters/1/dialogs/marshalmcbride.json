@@ -25,7 +25,8 @@
                             "reqs": {
                                 "flag-reqs": [
                                     {
-                                        "id": "flagKoboldCampCleanup1_started"
+                                        "id": "flagKoboldCampCleanup1_started",
+					"off": true
                                     }
                                 ],
                                 "quest-reqs": [
