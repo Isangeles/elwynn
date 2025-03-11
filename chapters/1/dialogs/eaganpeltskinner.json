@@ -92,11 +92,6 @@
                         }
                     ],
                     "target-mods": {
-                        "flag-mods": [
-                            {
-                                "id": "flagWolvesAcrossBorder1_started"
-                            }
-                        ],
                         "quest-mods": [
                             {
                                 "id": "questWolvesAcrossBorder1"

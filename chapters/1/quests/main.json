@@ -19,6 +19,11 @@
                             }
                         }
                     ],
+		    "start-flags": [
+			{
+			    "id": "flagAThreatWithin1_started"
+			}
+		    ],
                     "complete-flags": [
                         {
                             "id": "flagAThreatWithin1_completed"
@@ -47,6 +52,11 @@
                             }
                         }
                     ],
+		    "start-flags": [
+			{
+                            "id": "flagKoboldCampCleanup1_started"
+			}
+		    ],
                     "complete-flags": [
                         {
                             "id": "flagKoboldCampCleanup1_killed"
@@ -90,7 +100,12 @@
                                 ]
                             }
                         }
-                    ]
+                    ],
+		    "start-flags": [
+			{
+			    "id": "flagEaganPeltskinner1_started"
+			}
+		    ]
                 }
             ]
         },
@@ -114,6 +129,11 @@
                             }
                         }
                     ],
+		    "start-flags": [
+			{
+			    "id": "flagWolvesAcrossBorder1_started"
+			}
+		    ],
                     "complete-flags": [
                         {
                             "id": "flagWolvesAcrossBorder1_gathered"
@@ -158,6 +178,11 @@
                             }
                         }
                     ],
+		    "start-flags": [
+			{
+			    "id": "flagBrotherhoodOfThieves1_started"
+			}
+		    ],
                     "complete-flags": [
                         {
                             "id": "flagBrotherhoodOfThieves1_gathered"
@@ -207,6 +232,11 @@
                             }
                         }
                     ],
+		    "start-flags": [
+			{
+			    "id": "flagBountyOnGarrickPadfoot1_started"
+			}
+		    ],
                     "complete-flags": [
                         {
                             "id": "flagBountyOnGarrickPadfoot1_gathered"
@@ -255,6 +285,11 @@
                             }
                         }
                     ],
+		    "start-flags": [
+			{
+			    "id": "flagMillyOsworth1_started"
+			}
+		    ],
                     "complete-flags": [
                         {
                             "id": "flagMillyOsworth1_completed"

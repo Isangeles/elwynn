@@ -116,11 +116,6 @@
                         }
                     ],
                     "target-mods": {
-                        "flag-mods": [
-                            {
-                                "id": "flagKoboldCampCleanup1_started"
-                            }
-                        ],
                         "quest-mods": [
                             {
                                 "id": "questKoboldCampCleanup1"
