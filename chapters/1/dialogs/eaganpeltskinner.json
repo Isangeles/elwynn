@@ -28,7 +28,8 @@
                                         "id": "flagEaganPeltskinner1_talked"
                                     },
                                     {
-                                        "id": "flagWolvesAcrossBorder1_started"
+                                        "id": "flagWolvesAcrossBorder1_started",
+					"off": true
                                     }
                                 ]
                             }
