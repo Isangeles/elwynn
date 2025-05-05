@@ -28,7 +28,14 @@
             }
         },
         {
-            "id": "skillHeal1"
+            "id": "skillHeal1",
+	    "use": {
+		"target-effects": [
+		    {
+			"id": "effHeal1"
+		    }
+		]
+	    }
         },
         {
             "id": "skillFireball1",
