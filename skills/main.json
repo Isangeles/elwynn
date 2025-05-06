@@ -30,11 +30,26 @@
         {
             "id": "skillHeal1",
 	    "use": {
+                "cast-max": 1000,
+		"cooldown-max": 3000,
 		"target-effects": [
 		    {
 			"id": "effHeal1"
 		    }
-		]
+		],
+                "reqs": {
+                    "target-range-reqs": [
+                        {
+                            "min-range": 100
+                        }
+                    ],
+                    "mana-reqs": [
+                        {
+                            "value": 5,
+                            "charge": true
+                        }
+                    ]
+                }
 	    }
         },
         {
