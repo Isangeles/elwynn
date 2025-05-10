@@ -3,6 +3,7 @@
         {
             "id": "effHit1",
             "melee-hit": true,
+	    "hostile": true,
             "modifiers": {
                 "health-mods": [
                     {
@@ -15,6 +16,7 @@
         {
             "id": "effBleed1",
             "duration": 5000,
+	    "hostile": true,
             "modifiers": {
                 "health-mods": [
                     {
@@ -51,6 +53,7 @@
         {
             "id": "effFireHit1",
             "duration": 0,
+	    "hostile": true,
             "modifiers": {
                 "health-mods": [
                     {
@@ -63,6 +66,7 @@
         {
             "id": "effBurn1",
             "duration": 3000,
+	    "hostile": true,
             "modifiers": {
                 "health-mods": [
                     {
@@ -99,6 +103,7 @@
         {
             "id": "effDimMak1",
             "melee-hit": true,
+	    "hostile": true,
             "modifiers": {
                 "health-mods": [
                     {
