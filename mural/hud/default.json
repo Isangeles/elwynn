@@ -1,0 +1,18 @@
+{
+    "name":"default.json",
+    "players":[
+	{
+	    "id":"*",
+	    "bar-slots":[
+		{
+		    "id":0,
+		    "content":"skillMelee1"
+		}
+	    ]
+	}
+    ],
+    "camera":{
+	"x":200,
+	"y":280
+    }
+}
