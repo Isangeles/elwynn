@@ -30,6 +30,7 @@
         },
         {
             "id": "obMillysHarvest1",
+	    "open-loot": true,
 	    "inventory": {
 		"items": [
 		    {

@@ -2,6 +2,7 @@
     "characters": [
         {
             "id": "aloe1",
+	    "open-loot": true,
             "inventory": {
                 "items": [
                     {
