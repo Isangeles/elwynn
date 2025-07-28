@@ -17,7 +17,7 @@
             "id": "effBleed1",
             "duration": 5000,
 	    "hostile": true,
-            "modifiers": {
+            "over-time-modifiers": {
                 "health-mods": [
                     {
                         "min": -1,
@@ -29,7 +29,7 @@
         {
             "id": "effHeal1",
             "duration": 5000,
-            "modifiers": {
+            "over-time-modifiers": {
                 "health-mods": [
                     {
                         "min": 1,
@@ -41,7 +41,7 @@
         {
             "id": "effHeal2",
             "duration": 7000,
-            "modifiers": {
+            "over-time-modifiers": {
                 "health-mods": [
                     {
                         "min": 3,
@@ -52,7 +52,6 @@
         },
         {
             "id": "effFireHit1",
-            "duration": 0,
 	    "hostile": true,
             "modifiers": {
                 "health-mods": [
@@ -67,7 +66,7 @@
             "id": "effBurn1",
             "duration": 3000,
 	    "hostile": true,
-            "modifiers": {
+            "over-time-modifiers": {
                 "health-mods": [
                     {
                         "min": -5,
@@ -79,7 +78,7 @@
         {
             "id": "effHpReg1",
             "duration": 1000,
-            "modifiers": {
+            "over-time-modifiers": {
                 "health-mods": [
                     {
                         "min": 1,
@@ -91,7 +90,7 @@
         {
             "id": "effManaReg1",
             "duration": 1000,
-            "modifiers": {
+            "over-time-modifiers": {
                 "mana-mods": [
                     {
                         "min": 1,
