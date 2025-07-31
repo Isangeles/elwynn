@@ -4,7 +4,7 @@
             "id": "effHit1",
             "melee-hit": true,
 	    "hostile": true,
-            "modifiers": {
+            "over-time-modifiers": {
                 "health-mods": [
                     {
                         "min": -1,
@@ -53,7 +53,7 @@
         {
             "id": "effFireHit1",
 	    "hostile": true,
-            "modifiers": {
+            "over-time-modifiers": {
                 "health-mods": [
                     {
                         "min": -10,
@@ -103,7 +103,7 @@
             "id": "effDimMak1",
             "melee-hit": true,
 	    "hostile": true,
-            "modifiers": {
+            "over-time-modifiers": {
                 "health-mods": [
                     {
                         "min": -1000,
