@@ -111,6 +111,17 @@
                     }
                 ]
             }
-        }
+        },
+	{
+	    "id": "effMoveSpeed1",
+	    "infinite": true,
+	    "modifiers": {
+		"move-speed-mods": [
+		    {
+			"value": 10
+		    }
+		]
+	    }
+	}
     ]
 }
