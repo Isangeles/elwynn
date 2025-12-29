@@ -1,7 +1,7 @@
 {
     "characters": [
         {
-            "id": "loot1",
+            "id": "obLoot1",
 	    "open-loot": true
         }
     ]
