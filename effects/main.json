@@ -122,6 +122,17 @@
 		    }
 		]
 	    }
+	},
+	{
+	    "id": "effStealth1",
+	    "infinite": true,
+	    "modifiers": {
+		"visibility-mods": [
+		    {
+			"value": -100
+		    }
+		]
+	    }
 	}
     ]
 }
