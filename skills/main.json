@@ -133,7 +133,15 @@
 		    {
 			"id": "effStealth1"
 		    }
-		]
+		],
+		"reqs": {
+		    "effect-reqs": [
+			{
+			    "ID": "effStealth1",
+			    "off": true
+			}
+		    ]
+		}
 	    }
 	}
     ]
