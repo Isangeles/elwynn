@@ -17,6 +17,28 @@
                 }
             }
         },
+	{
+            "id": "skillRanged1",
+            "use": {
+                "target-effects": [
+                    {
+                        "id": "effShoot1"
+                    }
+                ],
+                "reqs": {
+                    "target-range-reqs": [
+                        {
+                            "max-range": 200
+                        }
+                    ],
+		    "weapon-reqs": [
+			{
+			    "ranged": true
+			}
+		    ]
+                }
+            }
+        },
         {
             "id": "skillDimMak1",
 	    "use": {

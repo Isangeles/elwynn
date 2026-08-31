@@ -14,6 +14,18 @@
             }
         },
         {
+            "id": "effShoot1",
+	    "hostile": true,
+            "over-time-modifiers": {
+                "health-mods": [
+                    {
+                        "min": -1,
+                        "max": -1
+                    }
+                ]
+            }
+        },
+        {
             "id": "effBleed1",
             "duration": 5000,
 	    "hostile": true,
