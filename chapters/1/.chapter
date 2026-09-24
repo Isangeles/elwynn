@@ -2,6 +2,6 @@
 start-area:northshire
 start-pos:1160;821
 start-items:itemIronSword1
-start-skills:skillMelee1
+start-skills:skillMelee1;skillRanged1
 start-attrs:10
 start-level:1
