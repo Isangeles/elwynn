@@ -26,6 +26,7 @@
             "level": 1,
             "damage": {
                 "type": "elementNone",
+		"ranged": true,
                 "min": 1,
                 "max": 10,
                 "effects": [
