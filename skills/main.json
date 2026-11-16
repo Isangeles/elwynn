@@ -28,7 +28,7 @@
                 "reqs": {
                     "target-range-reqs": [
                         {
-                            "max-range": 200
+                            "min-range": 200
                         }
                     ],
 		    "weapon-reqs": [
